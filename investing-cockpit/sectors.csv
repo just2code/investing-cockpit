@@ -1,0 +1,4 @@
+sector,symbol,updated
+# Custom / Tijori (TJI) groups go here, one row per stock. Example:
+# TJI Solar Panel Manufacturing,WAAREEENER,2026-11-15
+# Use tools/paste_to_csv.py to add a whole sector from pasted text.
