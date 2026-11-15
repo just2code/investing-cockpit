@@ -1,0 +1,20 @@
+sector,members,ret_1m,ret_3m,ret_6m,rs_3m,above50,above200,near_high,ew_above_50dma,custom,updated,score,strong,stale
+NSE: Healthcare,44,7.9,2.3,16.5,5.0,63.6,79.5,47.7,True,False,2026-11-15,82.4,True,False
+NSE: Oil Gas & Consumable Fuels,17,5.2,1.9,12.1,4.6,64.7,64.7,23.5,True,False,2026-11-15,77.9,True,False
+NSE: Financial Services,98,3.7,-2.0,5.5,0.7,69.4,49.0,32.7,True,False,2026-11-15,72.1,True,False
+NSE: Realty,13,6.3,-2.1,9.7,0.6,69.2,53.8,53.8,True,False,2026-11-15,70.8,True,False
+NSE: Information Technology,24,2.8,0.8,11.4,3.5,66.7,62.5,16.7,True,False,2026-11-15,67.4,True,False
+NSE: Construction Materials,11,6.9,-6.3,-3.7,-3.6,72.7,36.4,9.1,True,False,2026-11-15,67.4,False,False
+NSE: Consumer Durables,16,3.7,-3.9,7.5,-1.2,81.2,50.0,25.0,True,False,2026-11-15,67.4,False,False
+NSE: Media Entertainment & Publication,4,3.6,11.7,16.9,14.4,50.0,50.0,50.0,True,False,2026-11-15,66.8,False,False
+NSE: Services,13,2.7,1.5,12.1,4.2,61.5,61.5,38.5,True,False,2026-11-15,58.4,True,False
+NSE: Textiles,5,1.9,3.5,14.1,6.3,60.0,40.0,40.0,True,False,2026-11-15,56.8,True,False
+NSE: Construction,13,3.1,-4.7,-7.9,-2.0,69.2,30.8,23.1,True,False,2026-11-15,56.6,False,False
+NSE: Automobile and Auto Components,40,6.7,-4.8,11.6,-2.1,62.5,55.0,35.0,True,False,2026-11-15,53.7,False,False
+NSE: Consumer Services,23,2.6,0.6,11.6,3.3,56.5,65.2,30.4,True,False,2026-11-15,49.5,False,False
+NSE: Telecommunication,11,-0.1,-0.1,10.4,2.6,63.6,54.5,18.2,True,False,2026-11-15,46.6,True,False
+NSE: Fast Moving Consumer Goods,28,1.8,-2.3,0.1,0.4,64.3,32.1,25.0,True,False,2026-11-15,44.2,True,False
+NSE: Power,17,2.0,-7.1,-10.4,-4.4,47.1,23.5,5.9,False,False,2026-11-15,23.7,False,False
+NSE: Metals & Mining,18,1.9,-7.6,-13.4,-4.9,27.8,27.8,5.6,False,False,2026-11-15,15.3,False,False
+NSE: Capital Goods,69,-4.0,-6.7,1.6,-4.0,37.7,47.8,18.8,False,False,2026-11-15,13.2,False,False
+NSE: Chemicals,26,-1.6,-8.5,-2.3,-5.8,46.2,38.5,19.2,False,False,2026-11-15,10.0,False,False
