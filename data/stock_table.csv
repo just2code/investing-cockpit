@@ -1,491 +1,491 @@
 sector,symbol,close,ret_1m,ret_3m,trend,days_in_trend,trail_stop,risk_pct,from_52w_high,vol_ratio,sector_ret_3m,rs_sector_3m,name
-NSE: Financial Services,360ONE,1202.85,12.7,3.28,Long,9,1083.67,9.91,0.0,1.07,-1.0,4.3,360 ONE WAM Ltd.
-NSE: Capital Goods,ABB,6923.0,1.79,-9.62,Long,3,6332.48,8.53,-10.21,1.35,-9.8,0.2,ABB India Ltd.
-NSE: Construction Materials,ACC,1248.2,5.14,-5.2,Long,8,1142.31,8.48,-34.4,1.33,-4.4,-0.8,ACC Ltd.
-NSE: Power,ACMESOLAR,403.6,-1.56,10.61,Short,18,431.46,-6.9,-12.0,0.56,-7.2,17.8,ACME Solar Holdings Ltd.
-NSE: Capital Goods,AIAENG,3241.7,-12.85,-25.77,Short,66,3502.13,-8.03,-35.96,1.59,-9.8,-16.0,AIA Engineering Ltd.
-NSE: Capital Goods,APLAPOLLO,2188.5,1.66,5.56,Long,15,2098.71,4.1,-3.68,1.25,-9.8,15.4,APL Apollo Tubes Ltd.
-NSE: Financial Services,AUBANK,993.1,0.37,-7.38,Long,4,893.31,10.05,-12.01,1.39,-1.0,-6.4,AU Small Finance Bank Ltd.
-NSE: Fast Moving Consumer Goods,AWL,168.42,-10.08,-12.89,Short,17,177.69,-5.51,-39.01,0.99,-1.7,-11.2,AWL Agri Business Ltd.
-NSE: Financial Services,AADHARHFC,432.35,-3.28,-11.34,Short,80,464.48,-7.43,-22.31,0.96,-1.0,-10.3,Aadhar Housing Finance Ltd.
-NSE: Chemicals,AARTIIND,470.8,-6.4,-10.44,Short,48,488.68,-3.8,-13.15,1.18,-8.8,-1.6,Aarti Industries Ltd.
-NSE: Financial Services,AAVAS,1125.8,-5.81,-19.0,Short,80,1206.26,-7.15,-35.16,1.62,-1.0,-18.0,Aavas Financiers Ltd.
-NSE: Healthcare,ABBOTINDIA,25815.0,-1.36,-4.05,Long,9,24696.79,4.33,-12.53,1.1,2.1,-6.2,Abbott India Ltd.
-NSE: Capital Goods,ACE,1173.75,3.3,5.59,Long,7,1061.03,9.6,-6.39,1.04,-9.8,15.4,Action Construction Equipment Ltd.
-NSE: Healthcare,ACUTAAS,3942.9,22.99,23.38,Long,15,3526.75,10.55,-2.38,1.6,2.1,21.3,Acutaas Chemicals Ltd.
-NSE: Power,ADANIENSOL,1493.7,9.36,-6.0,Long,9,1330.31,10.94,-14.23,0.94,-7.2,1.2,Adani Energy Solutions Ltd.
-NSE: Metals & Mining,ADANIENT,2745.1,1.97,-8.72,Long,9,2516.58,8.32,-14.54,0.93,-8.1,-0.6,Adani Enterprises Ltd.
-NSE: Power,ADANIGREEN,1429.9,9.82,7.71,Long,9,1303.72,8.82,-10.88,1.02,-7.2,14.9,Adani Green Energy Ltd.
-NSE: Services,ADANIPORTS,1917.0,9.49,13.36,Long,46,1782.81,7.0,-1.32,1.02,2.7,10.7,Adani Ports and Special Economic Zone Ltd.
-NSE: Power,ADANIPOWER,208.07,6.24,2.22,Long,9,191.54,7.94,-16.41,0.96,-7.2,9.4,Adani Power Ltd.
-NSE: Oil Gas & Consumable Fuels,ATGL,577.15,-0.38,-10.78,Long,8,534.95,7.31,-28.59,0.37,1.9,-12.7,Adani Total Gas Ltd.
-NSE: Financial Services,ABCAPITAL,411.5,8.46,3.21,Long,11,375.08,8.85,-3.11,1.09,-1.0,4.2,Aditya Birla Capital Ltd.
-NSE: Realty,ABREL,1260.8,12.55,-10.08,Long,4,1064.46,15.57,-30.04,1.38,-2.3,-7.8,Aditya Birla Real Estate Ltd.
-NSE: Financial Services,ABSLAMC,924.15,-4.92,-9.31,Long,4,807.91,12.58,-20.99,1.18,-1.0,-8.3,Aditya Birla Sun Life AMC Ltd.
-NSE: Capital Goods,CPPLUS,3989.2,-1.83,19.33,Long,30,3788.66,5.03,-10.16,0.92,-9.8,29.1,Aditya Infotech Ltd.
-NSE: Oil Gas & Consumable Fuels,AEGISLOG,1211.6,-11.35,-5.87,Short,17,1366.14,-12.76,-18.64,1.27,1.9,-7.8,Aegis Logistics Ltd.
-NSE: Oil Gas & Consumable Fuels,AEGISVOPAK,279.46,1.25,3.7,Long,5,246.34,11.85,-12.2,0.69,1.9,1.8,Aegis Vopak Terminals Ltd.
-NSE: Chemicals,AETHER,1662.7,8.07,3.55,Long,5,1478.21,11.1,-7.62,1.08,-8.8,12.4,Aether Industries Ltd.
-NSE: Construction,AFCONS,221.91,-9.19,-18.33,Short,123,234.38,-5.62,-47.1,0.54,-5.6,-12.7,Afcons Infrastructure Ltd.
-NSE: Information Technology,AFFLE,1580.8,9.96,-7.22,Long,11,1430.89,9.48,-13.23,1.31,-0.8,-6.4,Affle 3i Ltd.
-NSE: Healthcare,AJANTPHARM,3312.5,-0.5,-10.91,Short,27,3525.07,-6.42,-10.91,1.45,2.1,-13.0,Ajanta Pharmaceuticals Ltd.
-NSE: Healthcare,ALKEM,5175.0,2.48,-3.7,Long,6,5010.34,3.18,-11.27,1.06,2.1,-5.8,Alkem Laboratories Ltd.
-NSE: Fast Moving Consumer Goods,ABDL,791.65,5.74,29.64,Long,41,716.96,9.44,0.0,0.71,-1.7,31.3,Allied Blenders and Distillers Ltd.
-NSE: Automobile and Auto Components,ARE&M,746.85,1.11,-20.56,Long,6,694.75,6.98,-22.57,1.24,-4.0,-16.6,Amara Raja Energy & Mobility Ltd.
-NSE: Consumer Durables,AMBER,6245.5,-6.34,-13.96,Long,8,5872.67,5.97,-29.37,1.68,-5.7,-8.3,Amber Enterprises India Ltd.
-NSE: Construction Materials,AMBUJACEM,390.2,8.39,-6.03,Long,8,354.82,9.07,-31.36,1.57,-4.4,-1.6,Ambuja Cements Ltd.
-NSE: Financial Services,ANANDRATHI,2375.3,9.98,9.37,Long,17,2279.24,4.04,-0.5,0.87,-1.0,10.4,Anand Rathi Wealth Ltd.
-NSE: Realty,ANANTRAJ,463.6,-9.41,-26.13,Short,42,510.2,-10.05,-27.36,1.02,-2.3,-23.8,Anant Raj Ltd.
-NSE: Financial Services,ANGELONE,349.8,17.16,19.75,Long,8,320.24,8.45,-0.63,1.29,-1.0,20.8,Angel One Ltd.
-NSE: Healthcare,ANTHEM,924.25,12.42,2.92,Long,9,872.77,5.57,-3.54,0.72,2.1,0.8,Anthem Biosciences Ltd.
-NSE: Chemicals,ANURAS,1317.5,12.03,10.22,Long,3,1214.29,7.83,-4.13,1.01,-8.8,19.0,Anupam Rasayan India Ltd.
-NSE: Capital Goods,APARINDS,14171.0,-11.61,-13.94,Short,21,16559.56,-16.86,-25.2,1.29,-9.8,-4.1,Apar Industries Ltd.
-NSE: Healthcare,APOLLOHOSP,8712.5,10.42,-1.28,Long,12,8210.78,5.76,-3.93,0.95,2.1,-3.4,Apollo Hospitals Enterprise Ltd.
-NSE: Automobile and Auto Components,APOLLOTYRE,418.7,2.41,-4.12,Long,8,389.03,7.09,-21.02,0.96,-4.0,-0.1,Apollo Tyres Ltd.
-NSE: Financial Services,APTUS,188.58,-14.27,-25.26,Short,79,198.71,-5.37,-37.84,1.77,-1.0,-24.3,Aptus Value Housing Finance India Ltd.
-NSE: Automobile and Auto Components,ASAHIINDIA,1166.5,26.31,25.53,Long,10,1041.82,10.69,0.0,1.48,-4.0,29.5,Asahi India Glass Ltd.
-NSE: Capital Goods,ASHOKLEY,160.5,7.78,-9.37,Long,8,158.41,1.3,-22.97,1.38,-9.8,0.4,Ashok Leyland Ltd.
-NSE: Consumer Durables,ASIANPAINT,2625.0,12.84,-2.09,Long,10,2420.37,7.8,-10.59,1.41,-5.7,3.6,Asian Paints Ltd.
-NSE: Healthcare,ASTERDM,737.95,9.43,-9.98,Long,9,668.39,9.43,-15.15,0.94,2.1,-12.1,Aster DM Quality Care Ltd.
-NSE: Capital Goods,ASTRAL,1242.6,-12.84,-19.13,Short,16,1368.94,-10.17,-28.65,1.16,-9.8,-9.3,Astral Ltd.
-NSE: Automobile and Auto Components,ATHERENERG,1908.6,29.84,28.51,Long,15,1755.96,8.0,-1.87,1.03,-4.0,32.5,Ather Energy Ltd.
-NSE: Chemicals,ATUL,5082.5,-17.98,-24.38,Short,53,5515.07,-8.51,-28.14,1.34,-8.8,-15.6,Atul Ltd.
-NSE: Healthcare,AUROPHARMA,1794.1,8.04,10.67,Long,8,1693.61,5.6,-2.93,1.32,2.1,8.6,Aurobindo Pharma Ltd.
-NSE: Financial Services,AIIL,568.5,-0.59,3.08,Long,8,529.07,6.94,-14.88,0.65,-1.0,4.1,Authum Investment & Infrastructure Ltd.
-NSE: Fast Moving Consumer Goods,AVANTIFEED,727.7,0.71,-16.89,Long,4,653.62,10.18,-51.05,1.83,-1.7,-15.2,Avanti Feeds Ltd.
-NSE: Consumer Services,DMART,3470.0,3.83,-13.14,Long,9,3287.95,5.25,-25.03,0.86,-0.4,-12.7,Avenue Supermarts Ltd.
-NSE: Financial Services,AXISBANK,1369.0,6.12,11.55,Long,22,1273.13,7.0,-2.35,1.02,-1.0,12.6,Axis Bank Ltd.
-NSE: Capital Goods,AZAD,2364.8,-13.72,-18.45,Short,19,2686.75,-13.61,-22.78,0.95,-9.8,-8.6,Azad Engineering Ltd.
-NSE: Capital Goods,BEML,2062.5,4.78,8.71,Long,10,1857.74,9.93,-2.96,1.22,-9.8,18.5,BEML Ltd.
-NSE: Consumer Services,BLS,227.89,0.16,-16.21,Short,58,234.13,-2.74,-31.68,0.91,-0.4,-15.8,BLS International Services Ltd.
-NSE: Financial Services,BSE,3864.9,14.92,15.99,Long,22,3593.97,7.01,-12.0,0.82,-1.0,17.0,BSE Ltd.
-NSE: Automobile and Auto Components,BAJAJ-AUTO,10770.0,3.51,-7.66,Long,10,10280.74,4.54,-12.87,1.2,-4.0,-3.7,Bajaj Auto Ltd.
-NSE: Financial Services,BAJFINANCE,1121.1,14.15,2.92,Long,9,1029.31,8.19,-3.25,1.22,-1.0,3.9,Bajaj Finance Ltd.
-NSE: Financial Services,BAJAJFINSV,1870.8,8.2,-6.69,Long,8,1735.07,7.26,-11.13,1.14,-1.0,-5.7,Bajaj Finserv Ltd.
-NSE: Financial Services,BAJAJHLDNG,11384.0,1.66,0.62,Long,5,10466.65,8.06,-7.78,1.0,-1.0,1.6,Bajaj Holdings & Investment Ltd.
-NSE: Financial Services,BAJAJHFL,82.89,-0.56,-1.32,Short,81,83.45,-0.68,-23.27,0.96,-1.0,-0.3,Bajaj Housing Finance Ltd.
-NSE: Automobile and Auto Components,BALKRISIND,2326.4,13.52,-3.19,Long,10,2156.6,7.3,-13.91,1.12,-4.0,0.8,Balkrishna Industries Ltd.
-NSE: Fast Moving Consumer Goods,BALRAMCHIN,656.65,-8.39,0.75,Long,9,582.08,11.36,-13.88,0.77,-1.7,2.4,Balrampur Chini Mills Ltd.
-NSE: Financial Services,BANDHANBNK,174.62,4.25,0.79,Long,5,156.5,10.37,-18.74,0.8,-1.0,1.8,Bandhan Bank Ltd.
-NSE: Financial Services,BANKBARODA,274.89,19.31,11.49,Long,13,254.47,7.43,-12.53,1.3,-1.0,12.5,Bank of Baroda
-NSE: Financial Services,BANKINDIA,159.28,20.34,10.8,Long,8,141.95,10.88,-7.18,1.36,-1.0,11.8,Bank of India
-NSE: Financial Services,MAHABANK,95.99,20.3,18.36,Long,8,85.79,10.63,0.0,1.21,-1.0,19.4,Bank of Maharashtra
-NSE: Consumer Durables,BATAINDIA,633.25,-0.85,-13.6,Long,15,593.88,6.22,-37.26,1.23,-5.7,-7.9,Bata India Ltd.
-NSE: Automobile and Auto Components,BELRISE,235.66,1.79,0.06,Long,2,208.53,11.51,-9.61,1.66,-4.0,4.1,Belrise Industries Ltd.
-NSE: Consumer Durables,BERGEPAINT,478.9,1.04,-12.82,Long,9,467.82,2.31,-18.23,0.96,-5.7,-7.1,Berger Paints India Ltd.
-NSE: Capital Goods,BDL,1027.1,-7.86,-25.55,Long,6,993.82,3.24,-36.11,1.22,-9.8,-15.8,Bharat Dynamics Ltd.
-NSE: Capital Goods,BEL,399.55,6.02,-3.13,Long,9,375.86,5.93,-14.59,1.03,-9.8,6.7,Bharat Electronics Ltd.
-NSE: Automobile and Auto Components,BHARATFORG,1714.7,-6.56,-18.07,Short,67,1858.0,-8.36,-24.3,1.31,-4.0,-14.1,Bharat Forge Ltd.
-NSE: Capital Goods,BHEL,430.65,-0.91,-1.22,Short,19,436.3,-1.31,-7.19,0.99,-9.8,8.6,Bharat Heavy Electricals Ltd.
-NSE: Oil Gas & Consumable Fuels,BPCL,305.8,4.19,-3.43,Long,8,292.82,4.24,-21.25,1.22,1.9,-5.3,Bharat Petroleum Corporation Ltd.
-NSE: Telecommunication,BHARTIARTL,2138.3,12.25,8.58,Long,22,2015.62,5.74,-0.71,1.2,-3.4,12.0,Bharti Airtel Ltd.
-NSE: Telecommunication,BHARTIHEXA,1672.7,3.13,1.93,Long,27,1559.55,6.76,-8.17,0.93,-3.4,5.3,Bharti Hexacom Ltd.
-NSE: Financial Services,GROWW,227.53,13.28,14.52,Long,22,205.89,9.51,0.0,1.08,-1.0,15.5,Billionbrains Garage Ventures Ltd.
-NSE: Healthcare,BIOCON,359.4,2.92,-12.77,Long,13,339.98,5.4,-18.45,1.04,2.1,-14.9,Biocon Ltd.
-NSE: Information Technology,BSOFT,304.3,-3.46,-1.16,Long,24,289.68,4.8,-33.03,1.44,-0.8,-0.4,Birlasoft Ltd.
-NSE: Information Technology,BBOX,889.85,-1.92,15.11,Short,16,907.27,-1.96,-17.36,0.94,-0.8,15.9,Black Box Ltd.
-NSE: Consumer Durables,BLUESTARCO,1608.0,2.58,6.62,Long,34,1454.83,9.53,-19.87,0.84,-5.7,12.3,Blue Star Ltd.
-NSE: Automobile and Auto Components,BOSCHLTD,49085.0,7.74,4.5,Long,14,47724.88,2.77,-6.46,1.17,-4.0,8.5,Bosch Ltd.
-NSE: Consumer Services,FIRSTCRY,178.97,0.19,-14.13,Short,110,179.06,-0.05,-47.84,1.2,-0.4,-13.7,Brainbees Solutions Ltd.
-NSE: Realty,BRIGADE,560.5,-2.55,-5.59,Short,43,589.17,-5.12,-21.79,0.98,-2.3,-3.3,Brigade Enterprises Ltd.
-NSE: Fast Moving Consumer Goods,BRITANNIA,4700.0,-1.34,-14.87,Long,10,4666.36,0.72,-22.74,1.07,-1.7,-13.2,Britannia Industries Ltd.
-NSE: Realty,BIRET,317.9,1.15,-6.05,Long,8,304.86,4.1,-9.31,0.86,-2.3,-3.8,Brookfield India Real Estate Trust
-NSE: Fast Moving Consumer Goods,CCL,976.9,-3.11,-13.34,Short,20,1012.23,-3.62,-20.34,1.03,-1.7,-11.6,CCL Products (I) Ltd.
-NSE: Power,CESC,125.81,-7.42,-23.35,Short,111,136.0,-8.1,-34.34,1.11,-7.2,-16.2,CESC Ltd.
-NSE: Capital Goods,CGPOWER,801.0,-5.32,-10.88,Short,42,865.79,-8.09,-17.97,1.22,-9.8,-1.1,CG Power and Industrial Solutions Ltd.
-NSE: Automobile and Auto Components,CIEINDIA,370.1,-1.88,-10.02,Long,4,343.76,7.12,-24.5,1.13,-4.0,-6.0,CIE Automotive India Ltd.
-NSE: Financial Services,CRISIL,4273.1,-5.7,-4.45,Long,18,4198.03,1.76,-11.2,1.13,-1.0,-3.4,CRISIL Ltd.
-NSE: Financial Services,CANFINHOME,786.65,7.44,-3.4,Long,5,723.71,8.0,-16.45,0.64,-1.0,-2.4,Can Fin Homes Ltd.
-NSE: Financial Services,CANBK,134.0,13.28,2.21,Long,6,124.21,7.31,-12.9,1.27,-1.0,3.2,Canara Bank
-NSE: Financial Services,CANHLIFE,129.98,-0.3,-12.71,Long,3,118.71,8.67,-17.33,0.79,-1.0,-11.7,Canara HSBC Life Insurance Company Ltd.
-NSE: Healthcare,CAPLIPOINT,2247.1,-2.36,-10.76,Short,1,2591.12,-15.31,-21.63,0.85,2.1,-12.9,Caplin Point Laboratories Ltd.
-NSE: Financial Services,CGCL,240.6,-2.81,6.43,Short,27,253.78,-5.48,-14.04,1.5,-1.0,7.4,Capri Global Capital Ltd.
-NSE: Capital Goods,CARBORUNIV,1014.1,-8.65,-9.67,Short,22,1167.09,-15.09,-21.78,0.67,-9.8,0.1,Carborundum Universal Ltd.
-NSE: Consumer Services,CARTRADE,2612.1,-13.26,-6.61,Short,14,2797.21,-7.09,-20.07,1.48,-0.4,-6.2,Cartrade Tech Ltd.
-NSE: Oil Gas & Consumable Fuels,CASTROLIND,191.09,-3.36,1.89,Short,15,199.75,-4.53,-5.25,1.13,1.9,-0.0,Castrol India Ltd.
-NSE: Automobile and Auto Components,CEATLTD,3538.5,7.39,-1.94,Long,9,3271.37,7.55,-12.19,1.03,-4.0,2.1,Ceat Ltd.
-NSE: Construction,CEMPRO,1352.3,12.91,2.31,Long,13,1151.63,14.84,-17.52,1.17,-5.6,7.9,Cemindia Projects Ltd.
-NSE: Financial Services,CENTRALBK,32.6,5.57,4.25,Long,6,30.2,7.36,-18.07,1.05,-1.0,5.2,Central Bank of India
-NSE: Financial Services,CDSL,1439.8,11.88,6.12,Long,10,1340.0,6.93,-12.23,1.32,-1.0,7.1,Central Depository Services (India) Ltd.
-NSE: Chemicals,CHAMBLFERT,372.9,-2.67,-13.96,Long,9,352.1,5.58,-21.87,1.05,-8.8,-5.2,Chambal Fertilizers & Chemicals Ltd.
-NSE: Oil Gas & Consumable Fuels,CHENNPETRO,1410.4,1.96,3.74,Long,28,1328.02,5.84,-11.82,0.81,1.9,1.8,Chennai Petroleum Corporation Ltd.
-NSE: Financial Services,CHOICEIN,726.5,-1.9,-9.62,Short,27,753.7,-3.74,-14.56,1.28,-1.0,-8.6,Choice International Ltd.
-NSE: Financial Services,CHOLAHLDNG,1438.4,5.76,-8.75,Long,11,1297.34,9.81,-27.17,1.17,-1.0,-7.8,Cholamandalam Financial Holdings Ltd.
-NSE: Financial Services,CHOLAFIN,1884.7,19.71,0.0,Long,13,1715.44,8.98,-2.85,1.18,-1.0,1.0,Cholamandalam Investment and Finance Company Ltd.
-NSE: Healthcare,CIPLA,1388.0,4.75,-3.04,Long,10,1336.48,3.71,-8.76,1.29,2.1,-5.1,Cipla Ltd.
-NSE: Financial Services,CUB,232.4,2.21,7.99,Short,16,237.97,-2.39,-2.55,1.28,-1.0,9.0,City Union Bank Ltd.
-NSE: Chemicals,CLEAN,715.95,-8.66,-14.37,Short,34,739.72,-3.32,-24.44,1.02,-8.8,-5.6,Clean Science and Technology Ltd.
-NSE: Oil Gas & Consumable Fuels,COALINDIA,391.55,-3.73,-0.42,Short,25,408.52,-4.34,-14.43,1.17,1.9,-2.3,Coal India Ltd.
-NSE: Capital Goods,COCHINSHIP,1147.0,-7.92,-21.03,Long,6,1119.19,2.42,-36.56,1.17,-9.8,-11.2,Cochin Shipyard Ltd.
-NSE: Information Technology,COFORGE,2041.0,4.56,13.01,Long,22,1882.51,7.77,-2.76,1.04,-0.8,13.8,Coforge Ltd.
-NSE: Healthcare,COHANCE,451.6,-2.68,1.54,Long,150,432.45,4.24,-34.54,0.72,2.1,-0.6,Cohance Lifesciences Ltd.
-NSE: Fast Moving Consumer Goods,COLPAL,1719.7,-1.41,-11.1,Long,5,1602.68,6.8,-23.04,0.92,-1.7,-9.4,Colgate Palmolive (India) Ltd.
-NSE: Financial Services,CAMS,744.0,6.75,-3.73,Long,8,666.43,10.43,-9.9,1.37,-1.0,-2.7,Computer Age Management Services Ltd.
-NSE: Healthcare,CONCORDBIO,554.8,-17.13,-26.76,Short,49,661.8,-19.29,-30.1,1.22,2.1,-28.9,Concord Biotech Ltd.
-NSE: Services,CONCOR,441.9,-0.93,-15.22,Long,6,414.66,6.16,-16.67,1.1,2.7,-17.9,Container Corporation of India Ltd.
-NSE: Chemicals,COROMANDEL,1973.5,12.22,-5.93,Long,8,1775.81,10.02,-17.65,1.16,-8.8,2.9,Coromandel International Ltd.
-NSE: Automobile and Auto Components,CRAFTSMAN,11195.0,2.14,6.82,Long,20,10034.54,10.37,-5.54,1.03,-4.0,10.8,Craftsman Automation Ltd.
-NSE: Financial Services,CREDITACC,1110.0,-9.99,-27.86,Short,58,1173.98,-5.76,-31.23,1.69,-1.0,-26.9,CreditAccess Grameen Ltd.
-NSE: Consumer Durables,CROMPTON,208.95,-3.04,-15.23,Long,6,194.53,6.9,-29.97,1.1,-5.7,-9.5,Crompton Greaves Consumer Electricals Ltd.
-NSE: Capital Goods,CUMMINSIND,4065.0,-11.78,-25.41,Short,8,4566.09,-12.33,-32.0,1.58,-9.8,-15.6,Cummins India Ltd.
-NSE: Fast Moving Consumer Goods,CUPID,365.85,3.44,36.86,Long,4,326.37,10.79,-4.92,0.73,-1.7,38.6,Cupid Ltd.
-NSE: Information Technology,CYIENT,1086.1,-8.14,26.41,Long,60,1053.05,3.04,-11.72,1.51,-0.8,27.2,Cyient Ltd.
-NSE: Realty,DLF,765.95,13.47,14.15,Long,37,705.36,7.91,-0.44,0.87,-2.3,16.4,DLF Ltd.
-NSE: Fast Moving Consumer Goods,DOMS,2043.8,-2.88,-7.71,Long,8,1848.04,9.58,-23.44,1.38,-1.7,-6.0,DOMS Industries Ltd.
-NSE: Fast Moving Consumer Goods,DABUR,384.3,0.75,-4.65,Long,9,358.76,6.65,-25.21,0.85,-1.7,-3.0,Dabur India Ltd.
-NSE: Construction Materials,DALBHARAT,1524.3,-9.25,-17.1,Short,50,1550.43,-1.71,-31.32,1.7,-4.4,-12.7,Dalmia Bharat Ltd.
-NSE: Capital Goods,DATAPATTNS,4215.9,3.53,-6.91,Long,4,3710.6,11.99,-14.52,1.26,-9.8,2.9,Data Patterns (India) Ltd.
-NSE: Chemicals,DEEPAKFERT,1443.7,7.41,-3.27,Long,2,1218.16,15.62,-12.66,1.44,-8.8,5.5,Deepak Fertilisers & Petrochemicals Corp. Ltd.
-NSE: Chemicals,DEEPAKNTR,1590.1,-0.53,-10.69,Long,5,1451.07,8.74,-14.85,1.44,-8.8,-1.9,Deepak Nitrite Ltd.
-NSE: Services,DELHIVERY,457.95,12.38,0.43,Long,10,410.19,10.43,-11.98,1.18,2.7,-2.3,Delhivery Ltd.
-NSE: Consumer Services,DEVYANI,127.16,4.29,-11.48,Long,8,115.27,9.35,-15.17,1.07,-0.4,-11.1,Devyani International Ltd.
-NSE: Healthcare,DIVISLAB,11150.0,21.93,31.46,Long,12,10400.26,6.72,-3.59,1.32,2.1,29.4,Divi's Laboratories Ltd.
-NSE: Consumer Durables,DIXON,13081.0,6.0,-6.66,Long,11,11824.24,9.61,-16.6,1.14,-5.7,-1.0,Dixon Technologies (India) Ltd.
-NSE: Healthcare,LALPATHLAB,1980.2,6.73,5.74,Long,148,1812.83,8.45,-2.39,0.99,2.1,3.6,Dr. Lal Path Labs Ltd.
-NSE: Healthcare,DRREDDY,1388.0,12.57,16.44,Long,39,1311.52,5.51,0.0,1.06,2.1,14.3,Dr. Reddy's Laboratories Ltd.
-NSE: Fast Moving Consumer Goods,EIDPARRY,648.5,-6.58,-18.12,Long,4,607.19,6.37,-39.32,0.97,-1.7,-16.4,E.I.D. Parry (India) Ltd.
-NSE: Consumer Services,EIHOTEL,310.45,2.71,4.88,Long,40,289.94,6.61,-18.67,0.7,-0.4,5.3,EIH Ltd.
-NSE: Realty,EMBASSY,420.56,-1.73,-2.83,Short,31,427.75,-1.71,-5.47,0.84,-2.3,-0.5,EMBASSY OFFICE PARKS REIT
-NSE: Automobile and Auto Components,EICHERMOT,7828.0,7.46,-2.76,Long,21,7109.07,9.18,-3.42,1.22,-4.0,1.2,Eicher Motors Ltd.
-NSE: Capital Goods,ELECON,453.9,-5.4,3.68,Long,23,415.28,8.51,-19.01,0.31,-9.8,13.5,Elecon Engineering Co. Ltd.
-NSE: Capital Goods,ELGIEQUIP,582.75,1.84,-6.64,Long,9,528.41,9.33,-9.29,1.12,-9.8,3.2,Elgi Equipments Ltd.
-NSE: Fast Moving Consumer Goods,EMAMILTD,412.6,11.04,3.25,Long,6,376.68,8.71,-22.55,0.49,-1.7,5.0,Emami Ltd.
-NSE: Healthcare,EMCURE,2339.4,28.5,25.08,Long,10,2129.59,8.97,-0.94,1.34,2.1,23.0,Emcure Pharmaceuticals Ltd.
-NSE: Capital Goods,EMMVEE,272.64,-1.65,-14.74,Long,3,241.38,11.47,-25.15,0.86,-9.8,-4.9,Emmvee Photovoltaic Power Ltd.
-NSE: Automobile and Auto Components,ENDURANCE,2506.1,4.14,-15.85,Long,9,2321.43,7.37,-17.28,1.1,-4.0,-11.8,Endurance Technologies Ltd.
-NSE: Construction,ENGINERSIN,312.9,15.0,32.01,Long,11,275.31,12.01,-0.37,0.99,-5.6,37.6,Engineers India Ltd.
-NSE: Capital Goods,ESCORTS,2401.5,-12.7,-23.36,Short,48,2586.33,-7.7,-38.39,1.25,-9.8,-13.6,Escorts Kubota Ltd.
-NSE: Consumer Services,ETERNAL,375.05,15.29,17.94,Long,12,345.28,7.94,0.0,1.24,-0.4,18.3,Eternal Ltd.
-NSE: Automobile and Auto Components,EXIDEIND,380.15,2.48,-20.09,Long,6,344.91,9.27,-22.52,1.32,-4.0,-16.1,Exide Industries Ltd.
-NSE: Consumer Services,NYKAA,358.0,3.77,9.46,Long,13,330.51,7.68,-1.97,1.15,-0.4,9.9,FSN E-Commerce Ventures Ltd.
-NSE: Financial Services,FEDERALBNK,365.8,8.22,3.3,Long,20,339.72,7.13,-1.25,0.94,-1.0,4.3,Federal Bank Ltd.
-NSE: Chemicals,FACT,787.35,7.39,-0.74,Long,9,714.52,9.25,-21.09,1.65,-8.8,8.1,Fertilisers and Chemicals Travancore Ltd.
-NSE: Capital Goods,FINCABLES,1230.4,-10.04,-6.18,Short,20,1305.02,-6.06,-17.06,1.16,-9.8,3.6,Finolex Cables Ltd.
-NSE: Services,FSL,286.2,1.56,6.89,Long,43,272.13,4.92,-20.36,0.51,2.7,4.2,Firstsource Solutions Ltd.
-NSE: Financial Services,FIVESTAR,438.7,-13.33,-18.42,Long,4,392.3,10.58,-31.62,1.24,-1.0,-17.4,Five-Star Business Finance Ltd.
-NSE: Automobile and Auto Components,FORCEMOT,19945.0,12.68,7.51,Long,9,17571.63,11.9,-22.4,1.22,-4.0,11.5,Force Motors Ltd.
-NSE: Healthcare,FORTIS,806.8,9.55,-11.22,Long,10,736.23,8.75,-18.45,0.88,2.1,-13.3,Fortis Healthcare Ltd.
-NSE: Oil Gas & Consumable Fuels,GAIL,187.0,11.24,8.97,Long,11,176.67,5.53,-1.53,1.2,1.9,7.1,GAIL (India) Ltd.
-NSE: Capital Goods,GVT&D,4320.0,9.12,0.95,Long,14,3822.45,11.52,-21.74,1.11,-9.8,10.8,GE Vernova T&D India Ltd.
-NSE: Services,GMRAIRPORT,104.5,16.76,3.15,Long,9,94.59,9.48,-9.11,0.98,2.7,0.4,GMR Airports Ltd.
-NSE: Automobile and Auto Components,GABRIEL,1498.9,3.61,4.07,Long,38,1345.42,10.24,-8.67,1.05,-4.0,8.1,Gabriel India Ltd.
-NSE: Capital Goods,GALLANTT,534.0,-12.37,-8.06,Long,25,513.33,3.87,-42.19,0.55,-9.8,1.7,Gallantt Ispat Ltd.
-NSE: Capital Goods,GRSE,2107.3,-0.61,-18.72,Long,10,1958.88,7.04,-31.69,1.56,-9.8,-8.9,Garden Reach Shipbuilders & Engineers Ltd.
-NSE: Financial Services,GICRE,342.15,4.46,-0.04,Long,8,313.0,8.52,-13.19,0.95,-1.0,1.0,General Insurance Corporation of India
-NSE: Fast Moving Consumer Goods,GILLETTE,7098.5,-1.77,-5.47,Long,9,6953.16,2.05,-18.69,1.0,-1.7,-3.8,Gillette India Ltd.
-NSE: Healthcare,GLAND,3248.4,6.74,11.62,Long,146,3077.33,5.27,-4.06,0.97,2.1,9.5,Gland Pharma Ltd.
-NSE: Healthcare,GLAXO,2687.6,4.73,-0.57,Long,6,2452.18,8.76,-13.48,1.31,2.1,-2.7,Glaxosmithkline Pharmaceuticals Ltd.
-NSE: Healthcare,GLENMARK,2615.8,17.47,12.43,Long,11,2392.81,8.52,-2.29,1.35,2.1,10.3,Glenmark Pharmaceuticals Ltd.
-NSE: Healthcare,MEDANTA,1444.2,16.47,2.06,Long,10,1313.82,9.03,-4.29,1.14,2.1,-0.0,Global Health Ltd.
-NSE: Capital Goods,GPIL,220.83,4.36,-11.96,Long,5,197.26,10.68,-27.5,1.01,-9.8,-2.2,Godawari Power & Ispat Ltd.
-NSE: Fast Moving Consumer Goods,GODFRYPHLP,1788.0,-2.92,-15.63,Short,51,1817.65,-1.66,-39.42,1.46,-1.7,-13.9,Godfrey Phillips India Ltd.
-NSE: Fast Moving Consumer Goods,GODREJCP,894.5,5.25,-3.03,Long,5,827.55,7.48,-27.17,1.24,-1.7,-1.3,Godrej Consumer Products Ltd.
-NSE: Realty,GODREJPROP,1892.4,18.03,-7.87,Long,9,1686.03,10.91,-13.81,1.22,-2.3,-5.6,Godrej Properties Ltd.
-NSE: Healthcare,GRANULES,815.5,-1.19,-5.35,Short,27,879.42,-7.84,-10.32,1.2,2.1,-7.4,Granules India Ltd.
-NSE: Capital Goods,GRAPHITE,792.35,2.87,8.62,Long,4,713.4,9.96,-6.91,0.39,-9.8,18.4,Graphite India Ltd.
-NSE: Construction Materials,GRASIM,3054.8,4.62,-6.02,Long,11,2996.39,1.91,-9.63,1.06,-4.4,-1.6,Grasim Industries Ltd.
-NSE: Metals & Mining,GRAVITA,1490.1,1.28,-17.76,Long,9,1362.55,8.56,-20.11,0.89,-8.1,-9.7,Gravita India Ltd.
-NSE: Services,GESHIP,1548.5,3.76,22.68,Short,7,1592.45,-2.84,-8.07,0.96,2.7,20.0,Great Eastern Shipping Co. Ltd.
-NSE: Chemicals,FLUOROCHEM,4752.0,7.93,1.01,Long,8,4310.23,9.3,-1.5,0.93,-8.8,9.8,Gujarat Fluorochemicals Ltd.
-NSE: Metals & Mining,GMDCLTD,469.8,-0.27,-16.75,Long,9,434.54,7.5,-36.01,1.57,-8.1,-8.6,Gujarat Mineral Development Corporation Ltd.
-NSE: Capital Goods,HBLENGINE,785.85,-5.68,16.65,Long,21,753.66,4.1,-24.23,0.49,-9.8,26.4,HBL Engineering Ltd.
-NSE: Information Technology,HCLTECH,1355.7,-1.76,3.23,Long,24,1326.92,2.12,-18.58,0.88,-0.8,4.0,HCL Technologies Ltd.
-NSE: Financial Services,HDBFS,573.6,12.34,-15.8,Long,6,529.14,7.75,-25.28,0.9,-1.0,-14.8,HDB Financial Services Ltd.
-NSE: Financial Services,HDFCAMC,2699.0,12.52,6.98,Long,10,2516.39,6.77,-3.69,1.09,-1.0,8.0,HDFC Asset Management Company Ltd.
-NSE: Financial Services,HDFCBANK,814.95,11.81,11.79,Long,10,767.32,5.85,-17.94,1.16,-1.0,12.8,HDFC Bank Ltd.
-NSE: Financial Services,HDFCLIFE,595.05,7.6,9.59,Long,7,553.35,7.01,-24.17,0.7,-1.0,10.6,HDFC Life Insurance Company Ltd.
-NSE: Capital Goods,HEGAM,275.97,22.81,-60.48,Long,13,249.7,9.52,-62.67,1.5,-9.8,-50.7,HEG Advanced Materials Ltd.
-NSE: Telecommunication,HFCL,188.19,-26.49,-14.18,Short,12,223.94,-19.0,-30.79,1.05,-3.4,-10.8,HFCL Ltd.
-NSE: Consumer Durables,HAVELLS,1175.0,4.82,-9.55,Long,7,1095.87,6.73,-21.12,1.17,-5.7,-3.9,Havells India Ltd.
-NSE: Automobile and Auto Components,HEROMOTOCO,5329.0,1.99,-7.24,Long,14,5057.15,5.1,-13.19,1.07,-4.0,-3.2,Hero MotoCorp Ltd.
-NSE: Information Technology,HEXT,490.65,-14.43,-11.11,Short,12,540.26,-10.11,-35.89,0.62,-0.8,-10.3,Hexaware Technologies Ltd.
-NSE: Chemicals,HSCL,561.25,-15.05,-28.72,Short,60,584.03,-4.06,-29.92,1.09,-8.8,-19.9,Himadri Speciality Chemical Ltd.
-NSE: Metals & Mining,HINDALCO,927.75,2.18,-11.63,Long,9,883.61,4.76,-18.88,1.33,-8.1,-3.5,Hindalco Industries Ltd.
-NSE: Capital Goods,HAL,4727.0,-5.25,-6.56,Long,21,4716.06,0.23,-7.3,1.04,-9.8,3.2,Hindustan Aeronautics Ltd.
-NSE: Metals & Mining,HINDCOPPER,431.95,-5.78,-24.28,Short,43,446.79,-3.44,-42.86,0.93,-8.1,-16.2,Hindustan Copper Ltd.
-NSE: Oil Gas & Consumable Fuels,HINDPETRO,389.55,12.59,5.0,Long,9,358.66,7.93,-17.92,1.15,1.9,3.1,Hindustan Petroleum Corporation Ltd.
-NSE: Fast Moving Consumer Goods,HINDUNILVR,2009.9,7.14,-1.27,Long,10,1900.11,5.46,-17.28,1.05,-1.7,0.4,Hindustan Unilever Ltd.
-NSE: Metals & Mining,HINDZINC,550.0,1.85,-3.08,Long,9,527.55,4.08,-22.99,1.1,-8.1,5.0,Hindustan Zinc Ltd.
-NSE: Capital Goods,POWERINDIA,30435.0,4.98,-14.13,Long,3,26946.22,11.46,-20.82,1.37,-9.8,-4.3,Hitachi Energy India Ltd.
-NSE: Financial Services,HOMEFIRST,1088.4,-1.04,-7.75,Short,35,1113.86,-2.34,-14.98,0.9,-1.0,-6.8,Home First Finance Company India Ltd.
-NSE: Fast Moving Consumer Goods,HONASA,517.8,14.49,8.17,Long,29,454.76,12.18,0.0,0.79,-1.7,9.9,Honasa Consumer Ltd.
-NSE: Capital Goods,HONAUT,30520.0,-4.91,-16.15,Short,63,31931.81,-4.63,-23.9,1.2,-9.8,-6.3,Honeywell Automation India Ltd.
-NSE: Financial Services,HUDCO,163.07,2.04,-13.03,Long,7,153.06,6.14,-30.46,1.34,-1.0,-12.0,Housing & Urban Development Corporation Ltd.
-NSE: Automobile and Auto Components,HYUNDAI,2121.3,6.76,-3.14,Long,10,1957.74,7.71,-11.55,1.14,-4.0,0.9,Hyundai Motor India Ltd.
-NSE: Financial Services,ICICIBANK,1598.7,14.44,12.96,Long,28,1498.53,6.27,0.0,1.29,-1.0,14.0,ICICI Bank Ltd.
-NSE: Financial Services,ICICILIFE,453.2,1.84,-10.61,Long,5,421.49,7.0,-33.94,1.05,-1.0,-9.6,ICICI Life Insurance Ltd.
-NSE: Financial Services,ICICIGI,1693.5,1.23,4.58,Long,4,1585.48,6.38,-16.43,0.61,-1.0,5.6,ICICI Lombard General Insurance Company Ltd.
-NSE: Financial Services,ICICIAMC,3000.8,7.87,-3.27,Long,8,2861.6,4.64,-13.94,0.78,-1.0,-2.3,ICICI Prudential Asset Management Company Ltd.
-NSE: Financial Services,IDBI,79.28,-5.75,-3.53,Short,17,86.14,-8.65,-31.66,0.39,-1.0,-2.5,IDBI Bank Ltd.
-NSE: Financial Services,IDFCFIRSTB,83.59,7.06,-1.72,Long,5,76.1,8.95,-4.9,1.02,-1.0,-0.7,IDFC First Bank Ltd.
-NSE: Financial Services,IFCI,61.73,-7.85,-21.79,Short,45,65.14,-5.52,-39.78,0.28,-1.0,-20.8,IFCI Ltd.
-NSE: Financial Services,IIFL,636.4,3.41,1.01,Long,8,570.03,10.43,-8.62,1.58,-1.0,2.0,IIFL Finance Ltd.
-NSE: Capital Goods,INOXINDIA,1969.4,-0.92,0.95,Short,42,2096.71,-6.46,-14.22,1.11,-9.8,10.8,INOX India Ltd.
-NSE: Construction,IRB,17.95,2.15,-6.11,Long,6,16.93,5.69,-20.82,1.01,-5.6,-0.5,IRB Infrastructure Developers Ltd.
-NSE: Construction,IRCON,108.84,2.08,-12.06,Long,6,100.18,7.95,-38.39,0.65,-5.6,-6.5,IRCON International Ltd.
-NSE: Consumer Services,ITCHOTELS,177.81,9.44,6.88,Long,36,162.04,8.87,-15.42,1.69,-0.4,7.3,ITC Hotels Ltd.
-NSE: Fast Moving Consumer Goods,ITC,293.3,11.31,7.42,Long,10,274.95,6.26,-24.63,1.14,-1.7,9.1,ITC Ltd.
-NSE: Telecommunication,ITI,251.68,3.37,-9.22,Long,11,227.71,9.52,-22.6,2.32,-3.4,-5.8,ITI Ltd.
-NSE: Construction Materials,INDIACEM,321.5,6.35,-14.53,Long,19,306.22,4.75,-32.82,2.31,-4.4,-10.1,India Cements Ltd.
-NSE: Consumer Services,INDIAMART,1546.7,-4.95,-12.62,Short,98,1648.67,-6.59,-36.46,1.0,-0.4,-12.2,Indiamart Intermesh Ltd.
-NSE: Financial Services,INDIANB,936.0,9.59,6.22,Long,20,872.68,6.76,-3.59,1.2,-1.0,7.2,Indian Bank
-NSE: Financial Services,IEX,114.4,6.37,-8.7,Long,9,106.86,6.59,-24.02,1.15,-1.0,-7.7,Indian Energy Exchange Ltd.
-NSE: Consumer Services,INDHOTEL,901.55,16.77,25.22,Long,148,830.93,7.83,0.0,1.43,-0.4,25.6,Indian Hotels Co. Ltd.
-NSE: Oil Gas & Consumable Fuels,IOC,145.56,11.64,5.01,Long,11,137.88,5.28,-20.68,1.32,1.9,3.1,Indian Oil Corporation Ltd.
-NSE: Financial Services,IOB,31.67,2.19,-5.91,Short,61,31.7,-0.11,-21.32,1.49,-1.0,-4.9,Indian Overseas Bank
-NSE: Consumer Services,IRCTC,449.35,-3.71,-10.03,Short,17,472.45,-5.14,-36.36,1.22,-0.4,-9.6,Indian Railway Catering And Tourism Corporation Ltd.
-NSE: Financial Services,IRFC,82.65,4.55,-3.62,Long,21,78.26,5.31,-36.55,1.21,-1.0,-2.6,Indian Railway Finance Corporation Ltd.
-NSE: Financial Services,IREDA,117.4,7.9,1.14,Long,8,108.88,7.26,-21.28,1.48,-1.0,2.1,Indian Renewable Energy Development Agency Ltd.
-NSE: Oil Gas & Consumable Fuels,IGL,148.19,3.59,-0.84,Long,5,135.44,8.61,-29.03,0.96,1.9,-2.7,Indraprastha Gas Ltd.
-NSE: Telecommunication,INDUSTOWER,392.6,2.43,3.32,Long,5,364.63,7.12,-14.73,1.05,-3.4,6.7,Indus Towers Ltd.
-NSE: Financial Services,INDUSINDBK,931.0,6.16,-7.88,Long,8,840.79,9.69,-12.93,1.15,-1.0,-6.9,IndusInd Bank Ltd.
-NSE: Consumer Services,NAUKRI,1175.0,-6.89,-13.12,Short,44,1280.36,-8.97,-15.19,0.99,-0.4,-12.7,Info Edge (India) Ltd.
-NSE: Information Technology,INFY,1130.0,-0.46,1.4,Long,23,1057.64,6.4,-30.12,1.08,-0.8,2.2,Infosys Ltd.
-NSE: Capital Goods,INOXWIND,59.7,-11.73,-23.59,Long,8,57.64,3.45,-60.34,1.2,-9.8,-13.8,Inox Wind Ltd.
-NSE: Information Technology,INTELLECT,542.5,-16.07,-21.99,Short,61,608.9,-12.24,-52.29,1.5,-0.8,-21.2,Intellect Design Arena Ltd.
-NSE: Services,INDIGO,5611.0,19.72,6.36,Long,11,5216.65,7.03,-5.2,1.16,2.7,3.7,InterGlobe Aviation Ltd.
-NSE: Services,IGIL,450.6,37.92,27.83,Long,18,382.63,15.08,0.0,1.97,2.7,25.1,International Gemological Institute Ltd.
-NSE: Information Technology,IKS,1630.1,-5.85,-10.93,Short,26,1783.32,-9.4,-15.88,0.75,-0.8,-10.1,Inventurus Knowledge Solutions Ltd.
-NSE: Healthcare,IPCALAB,1834.4,0.1,-2.66,Short,21,2002.97,-9.19,-8.72,1.15,2.1,-4.8,Ipca Laboratories Ltd.
-NSE: Construction Materials,JKCEMENT,5237.5,6.39,-1.92,Long,36,4785.64,8.63,-12.05,1.05,-4.4,2.5,J.K. Cement Ltd.
-NSE: Automobile and Auto Components,JBMA,489.35,-9.23,-21.14,Short,45,533.48,-9.02,-32.7,1.28,-4.0,-17.1,JBM Auto Ltd.
-NSE: Automobile and Auto Components,JKTYRE,364.5,7.71,-4.58,Long,9,331.31,9.1,-39.14,1.25,-4.0,-0.6,JK Tyre & Industries Ltd.
-NSE: Financial Services,JMFINANCIL,113.34,-5.24,-10.07,Short,42,117.82,-3.95,-24.45,1.04,-1.0,-9.1,JM Financial Ltd.
-NSE: Construction Materials,JSWCEMENT,125.94,9.79,-1.3,Long,11,116.97,7.12,-11.49,1.47,-4.4,3.1,JSW Cement Ltd.
-NSE: Power,JSWENERGY,514.9,6.69,-7.31,Long,13,477.9,7.19,-14.18,1.12,-7.2,-0.1,JSW Energy Ltd.
-NSE: Services,JSWINFRA,339.1,-0.29,1.1,Short,20,346.32,-2.13,-7.75,0.59,2.7,-1.6,JSW Infrastructure Ltd.
-NSE: Metals & Mining,JSWSTEEL,1332.0,9.51,4.24,Long,16,1262.59,5.21,-1.85,1.17,-8.1,12.3,JSW Steel Ltd.
-NSE: Metals & Mining,JAINREC,286.85,-1.02,-4.99,Short,126,300.77,-4.85,-49.81,0.61,-8.1,3.1,Jain Resource Recycling Ltd.
-NSE: Power,JPPOWER,13.7,-8.48,-21.22,Short,55,14.54,-6.16,-40.1,0.92,-7.2,-14.0,Jaiprakash Power Ventures Ltd.
-NSE: Financial Services,J&KBANK,139.95,4.18,-5.42,Long,4,125.18,10.56,-27.36,1.47,-1.0,-4.4,Jammu & Kashmir Bank Ltd.
-NSE: Capital Goods,JINDALSAW,258.79,-14.18,-4.29,Short,18,273.39,-5.64,-18.49,0.94,-9.8,5.5,Jindal Saw Ltd.
-NSE: Metals & Mining,JSL,731.95,-0.62,-1.21,Short,27,745.17,-1.81,-14.99,0.64,-8.1,6.9,Jindal Stainless Ltd.
-NSE: Metals & Mining,JINDALSTEL,1137.5,8.83,2.1,Long,9,1077.16,5.3,-11.58,1.13,-8.1,10.2,Jindal Steel Ltd.
-NSE: Financial Services,JIOFIN,228.96,5.88,-8.32,Long,9,214.33,6.39,-27.12,1.07,-1.0,-7.3,Jio Financial Services Ltd.
-NSE: Consumer Services,JUBLFOOD,427.5,2.28,-16.42,Long,8,412.47,3.52,-30.32,1.35,-0.4,-16.0,Jubilant Foodworks Ltd.
-NSE: Chemicals,JUBLINGREA,588.45,-6.74,-19.7,Short,54,638.21,-8.46,-22.7,1.45,-8.8,-10.9,Jubilant Ingrevia Ltd.
-NSE: Capital Goods,JWL,203.32,-1.12,-19.53,Long,8,184.41,9.3,-41.5,1.38,-9.8,-9.7,Jupiter Wagons Ltd.
-NSE: Capital Goods,JYOTICNC,1041.25,4.42,21.36,Long,9,945.15,9.23,-6.52,0.99,-9.8,31.2,Jyoti CNC Automation Ltd.
-NSE: Textiles,KPRMILL,1217.1,10.62,7.18,Long,11,1096.28,9.93,0.0,1.49,4.5,2.7,K.P.R. Mill Ltd.
-NSE: Capital Goods,KEI,3851.0,-14.08,-34.43,Short,52,4269.5,-10.87,-34.43,1.16,-9.8,-24.6,KEI Industries Ltd.
-NSE: Information Technology,KPITTECH,531.65,-4.21,-12.7,Long,21,492.82,7.3,-57.68,0.96,-0.8,-11.9,KPIT Technologies Ltd.
-NSE: Capital Goods,KSB,667.05,-14.44,-16.12,Short,22,715.46,-7.26,-32.97,0.74,-9.8,-6.3,KSB Ltd.
-NSE: Consumer Durables,KAJARIACER,1168.7,-2.44,-5.14,Short,17,1207.05,-3.28,-5.85,0.98,-5.7,0.6,Kajaria Ceramics Ltd.
-NSE: Construction,KPIL,1332.3,-2.35,-5.12,Short,19,1428.53,-7.22,-8.65,0.9,-5.6,0.5,Kalpataru Projects International Ltd.
-NSE: Consumer Durables,KALYANKJIL,682.75,22.36,12.38,Long,8,614.55,9.99,-3.96,1.51,-5.7,18.1,Kalyan Jewellers India Ltd.
-NSE: Financial Services,KARURVYSYA,393.5,10.64,17.81,Long,24,356.09,9.51,0.0,1.08,-1.0,18.8,Karur Vysya Bank Ltd.
-NSE: Capital Goods,KAYNES,2858.0,-12.89,-21.72,Short,52,3428.06,-19.95,-55.58,1.27,-9.8,-11.9,Kaynes Technology India Ltd.
-NSE: Construction,KEC,322.15,-8.55,-26.17,Short,92,360.78,-11.99,-59.14,1.31,-5.6,-20.6,Kec International Ltd.
-NSE: Financial Services,KFINTECH,965.0,8.79,-0.82,Long,9,859.63,10.92,-11.23,1.45,-1.0,0.2,Kfin Technologies Ltd.
-NSE: Capital Goods,KIRLOSBROS,1574.5,-6.44,-18.96,Long,11,1499.45,4.77,-23.77,1.49,-9.8,-9.2,Kirloskar Brothers Ltd.
-NSE: Capital Goods,KIRLOSENG,1646.3,-18.73,-21.66,Short,20,1866.04,-13.35,-35.65,1.02,-9.8,-11.9,Kirloskar Oil Eng Ltd.
-NSE: Financial Services,KOTAKBANK,497.25,11.14,26.62,Long,29,466.73,6.14,0.0,1.04,-1.0,27.6,Kotak Mahindra Bank Ltd.
-NSE: Healthcare,KIMS,768.3,12.06,-4.01,Long,10,699.47,8.96,-9.68,0.9,2.1,-6.1,Krishna Institute of Medical Sciences Ltd.
-NSE: Financial Services,LTF,280.3,10.42,-11.02,Long,9,253.61,9.52,-16.48,0.76,-1.0,-10.0,L&T Finance Ltd.
-NSE: Information Technology,LTTS,4208.0,13.85,19.85,Long,24,3853.83,8.42,-8.93,2.16,-0.8,20.7,L&T Technology Services Ltd.
-NSE: Consumer Durables,LGEINDIA,1721.3,0.08,3.22,Long,8,1621.26,5.81,-4.04,0.97,-5.7,8.9,LG Electronics India Ltd.
-NSE: Financial Services,LICHSGFIN,622.5,19.48,27.45,Long,6,551.07,11.48,0.0,0.84,-1.0,28.4,LIC Housing Finance Ltd.
-NSE: Fast Moving Consumer Goods,LTFOODS,420.15,0.6,0.96,Long,7,394.75,6.05,-8.25,0.97,-1.7,2.7,LT Foods Ltd.
-NSE: Information Technology,LTM,4118.0,-5.64,-11.87,Long,21,3969.87,3.6,-34.48,0.93,-0.8,-11.1,LTM Ltd.
-NSE: Construction,LT,4155.5,14.57,1.68,Long,12,3958.35,4.74,-5.03,1.19,-5.6,7.3,Larsen & Toubro Ltd.
-NSE: Healthcare,LAURUSLABS,2338.0,13.54,29.25,Long,152,2214.12,5.3,-4.73,1.41,2.1,27.2,Laurus Labs Ltd.
-NSE: Consumer Services,LEMONTREE,123.31,8.72,12.56,Long,29,112.0,9.17,-25.22,1.17,-0.4,13.0,Lemon Tree Hotels Ltd.
-NSE: Consumer Services,LENSKART,739.05,14.32,21.63,Long,14,668.28,9.58,0.0,0.87,-0.4,22.0,Lenskart Solutions Ltd.
-NSE: Financial Services,LICI,397.7,-0.01,-3.0,Long,9,381.84,3.99,-11.08,1.18,-1.0,-2.0,Life Insurance Corporation of India
-NSE: Chemicals,LINDEINDIA,6886.0,11.34,2.29,Long,9,6167.9,10.43,-12.1,1.48,-8.8,11.1,Linde India Ltd.
-NSE: Metals & Mining,LLOYDSME,1748.0,-5.6,-9.99,Short,66,1881.39,-7.63,-16.81,0.92,-8.1,-1.9,Lloyds Metals And Energy Ltd.
-NSE: Realty,LODHA,1203.1,13.64,-4.06,Long,9,1083.69,9.92,-8.28,0.91,-2.3,-1.8,Lodha Developers Ltd.
-NSE: Healthcare,LUPIN,1950.0,-0.59,-13.68,Short,68,2034.59,-4.34,-22.46,1.03,2.1,-15.8,Lupin Ltd.
-NSE: Services,MMTC,53.48,-5.33,-16.19,Short,42,56.94,-6.48,-29.66,0.81,2.7,-18.9,MMTC Ltd.
-NSE: Automobile and Auto Components,MRF,128840.0,4.93,-3.14,Long,8,122259.29,5.11,-18.47,1.24,-4.0,0.9,MRF Ltd.
-NSE: Capital Goods,MTARTECH,5709.5,-19.07,-19.09,Short,17,6545.76,-14.65,-31.82,1.46,-9.8,-9.3,MTAR Technologies Ltd.
-NSE: Oil Gas & Consumable Fuels,MGL,1104.1,4.75,-0.63,Long,8,1067.53,3.31,-9.92,1.34,1.9,-2.5,Mahanagar Gas Ltd.
-NSE: Financial Services,M&MFIN,291.25,-6.52,-25.11,Short,43,298.66,-2.55,-29.36,1.55,-1.0,-24.1,Mahindra & Mahindra Financial Services Ltd.
-NSE: Automobile and Auto Components,M&M,3399.0,16.37,0.25,Long,9,3131.58,7.87,-9.67,1.15,-4.0,4.2,Mahindra & Mahindra Ltd.
-NSE: Financial Services,MANAPPURAM,295.6,-8.44,-14.92,Long,8,287.84,2.63,-20.01,1.3,-1.0,-13.9,Manappuram Finance Ltd.
-NSE: Oil Gas & Consumable Fuels,MRPL,174.24,2.66,0.09,Long,107,158.17,9.22,-14.25,1.05,1.9,-1.8,Mangalore Refinery & Petrochemicals Ltd.
-NSE: Healthcare,MANKIND,2610.0,14.7,9.62,Long,15,2435.45,6.69,-2.18,1.18,2.1,7.5,Mankind Pharma Ltd.
-NSE: Fast Moving Consumer Goods,MARICO,924.0,17.71,8.44,Long,10,855.92,7.37,-0.11,1.34,-1.7,10.1,Marico Ltd.
-NSE: Automobile and Auto Components,MARUTI,12625.0,9.89,-8.25,Long,9,12204.77,3.33,-26.26,1.17,-4.0,-4.2,Maruti Suzuki India Ltd.
-NSE: Financial Services,MFSL,1431.0,10.51,-8.95,Long,4,1295.17,9.49,-23.48,0.9,-1.0,-8.0,Max Financial Services Ltd.
-NSE: Healthcare,MAXHEALTH,1030.9,21.86,2.71,Long,10,938.93,8.92,-12.56,1.22,2.1,0.6,Max Healthcare Institute Ltd.
-NSE: Capital Goods,MAZDOCK,1847.0,-11.46,-27.79,Short,46,1962.55,-6.26,-34.21,1.38,-9.8,-18.0,Mazagoan Dock Shipbuilders Ltd.
-NSE: Consumer Services,MEESHO,252.64,11.2,30.35,Long,98,227.45,9.97,-1.72,0.68,-0.4,30.8,Meesho Ltd.
-NSE: Automobile and Auto Components,MINDACORP,707.75,8.91,-2.4,Long,10,640.97,9.44,-5.03,1.41,-4.0,1.6,Minda Corporation Ltd.
-NSE: Automobile and Auto Components,MSUMI,39.65,11.88,-1.69,Long,13,36.3,8.44,-22.72,1.28,-4.0,2.3,Motherson Sumi Wiring India Ltd.
-NSE: Financial Services,MOTILALOFS,1240.25,17.27,29.87,Long,8,1086.11,12.43,0.0,1.37,-1.0,30.9,Motilal Oswal Financial Services Ltd.
-NSE: Information Technology,MPHASIS,2445.0,-2.2,-2.59,Long,24,2319.96,5.11,-15.0,1.25,-0.8,-1.8,MphasiS Ltd.
-NSE: Financial Services,MCX,3705.4,17.19,26.64,Long,10,3356.63,9.41,-0.65,1.14,-1.0,27.6,Multi Commodity Exchange of India Ltd.
-NSE: Financial Services,MUTHOOTFIN,2749.0,5.8,-4.83,Long,9,2615.5,4.86,-32.25,1.28,-1.0,-3.8,Muthoot Finance Ltd.
-NSE: Healthcare,NATCOPHARM,822.9,4.82,-7.36,Short,61,835.94,-1.58,-31.65,1.39,2.1,-9.5,NATCO Pharma Ltd.
-NSE: Construction,NBCC,78.51,4.3,-11.79,Long,11,72.87,7.18,-35.27,1.44,-5.6,-6.2,NBCC (India) Ltd.
-NSE: Construction,NCC,134.09,6.71,-3.81,Long,6,122.15,8.91,-27.11,0.74,-5.6,1.8,NCC Ltd.
-NSE: Power,NHPC,74.8,4.7,-2.35,Short,1,80.5,-7.63,-12.15,1.32,-7.2,4.8,NHPC Ltd.
-NSE: Power,NLCINDIA,234.82,-6.75,-14.83,Short,110,252.1,-7.36,-36.25,1.25,-7.2,-7.6,NLC India Ltd.
-NSE: Metals & Mining,NMDC,69.3,-3.33,-17.85,Long,5,66.95,3.4,-26.86,1.14,-8.1,-9.8,NMDC Ltd.
-NSE: Metals & Mining,NSLNISP,39.77,-1.17,-4.77,Short,42,41.89,-5.33,-24.32,0.89,-8.1,3.3,NMDC Steel Ltd.
-NSE: Power,NTPCGREEN,82.99,-7.6,-9.93,Short,28,88.21,-6.29,-30.18,0.97,-7.2,-2.7,NTPC Green Energy Ltd.
-NSE: Power,NTPC,321.8,3.09,-2.56,Long,11,305.3,5.13,-19.94,1.08,-7.2,4.6,NTPC Ltd.
-NSE: Healthcare,NH,1907.6,10.95,4.33,Long,11,1759.11,7.78,-8.3,0.92,2.1,2.2,Narayana Hrudayalaya Ltd.
-NSE: Metals & Mining,NATIONALUM,320.9,0.33,-15.84,Long,6,298.0,7.14,-25.76,1.1,-8.1,-7.7,National Aluminium Co. Ltd.
-NSE: Power,NAVA,547.15,0.35,-2.23,Long,8,513.87,6.08,-24.39,1.34,-7.2,5.0,Nava Ltd.
-NSE: Chemicals,NAVINFLUOR,9815.0,20.29,20.52,Long,14,9007.1,8.23,-1.87,1.51,-8.8,29.3,Navin Fluorine International Ltd.
-NSE: Fast Moving Consumer Goods,NESTLEIND,1294.3,2.28,-11.95,Long,7,1198.34,7.41,-15.95,1.0,-1.7,-10.2,Nestle India Ltd.
-NSE: Information Technology,NETWEB,4053.4,-14.34,-22.24,Short,17,4405.66,-8.69,-27.63,1.12,-0.8,-21.4,Netweb Technologies India Ltd.
-NSE: Healthcare,NEULANDLAB,21445.0,9.0,-9.37,Long,4,18910.04,11.82,-10.63,1.18,2.1,-11.5,Neuland Laboratories Ltd.
-NSE: Financial Services,NAM-INDIA,1085.5,2.93,-8.83,Long,8,986.3,9.14,-12.35,1.33,-1.0,-7.8,Nippon Life India Asset Management Ltd.
-NSE: Financial Services,NUVAMA,1888.3,10.68,9.07,Long,30,1663.43,11.91,-4.64,0.84,-1.0,10.1,Nuvama Wealth Management Ltd.
-NSE: Construction Materials,NUVOCO,345.55,1.29,4.36,Long,8,316.45,8.42,-8.4,0.75,-4.4,8.8,Nuvoco Vistas Corporation Ltd.
-NSE: Realty,OBEROIRLTY,1819.7,6.98,-5.65,Long,8,1646.25,9.53,-6.63,0.98,-2.3,-3.4,Oberoi Realty Ltd.
-NSE: Oil Gas & Consumable Fuels,ONGC,223.52,4.24,-2.56,Long,11,213.07,4.68,-22.9,1.13,1.9,-4.5,Oil & Natural Gas Corporation Ltd.
-NSE: Oil Gas & Consumable Fuels,OIL,433.5,-2.58,-8.48,Short,38,470.23,-8.47,-16.19,1.08,1.9,-10.4,Oil India Ltd.
-NSE: Automobile and Auto Components,OLAELEC,33.24,-5.0,-15.25,Long,15,30.12,9.38,-29.78,1.03,-4.0,-11.2,Ola Electric Mobility Ltd.
-NSE: Automobile and Auto Components,OLECTRA,1005.55,-5.7,-23.79,Long,6,952.21,5.3,-34.58,1.13,-4.0,-19.8,Olectra Greentech Ltd.
-NSE: Financial Services,PAYTM,1903.4,12.39,20.45,Long,4,1731.47,9.03,-1.88,0.79,-1.0,21.4,One 97 Communications Ltd.
-NSE: Healthcare,ONESOURCE,1580.8,12.29,1.45,Long,15,1453.06,8.08,-15.35,1.6,2.1,-0.7,Onesource Specialty Pharma Ltd.
-NSE: Information Technology,OFSS,9741.0,-6.21,-17.37,Short,39,10695.62,-9.8,-22.32,0.89,-0.8,-16.6,Oracle Financial Services Software Ltd.
-NSE: Financial Services,POLICYBZR,1052.1,-1.67,-39.12,Long,3,935.42,11.09,-46.25,0.64,-1.0,-38.1,PB Fintech Ltd.
-NSE: Chemicals,PCBL,274.5,-11.25,-12.98,Short,26,303.2,-10.46,-23.89,0.65,-8.8,-4.2,PCBL Chemical Ltd.
-NSE: Consumer Durables,PGEL,533.0,2.29,-13.15,Long,14,514.68,3.44,-15.44,1.32,-5.7,-7.4,PG Electroplast Ltd.
-NSE: Chemicals,PIIND,1672.0,-23.65,-32.36,Short,66,1881.57,-12.53,-53.17,1.83,-8.8,-23.6,PI Industries Ltd.
-NSE: Financial Services,PNBHOUSING,1138.0,-2.54,-1.11,Short,17,1182.78,-3.94,-7.09,0.89,-1.0,-0.1,PNB Housing Finance Ltd.
-NSE: Capital Goods,PTCIL,23950.0,-2.96,16.35,Long,134,22967.85,4.1,-6.86,0.79,-9.8,26.2,PTC Industries Ltd.
-NSE: Media Entertainment & Publication,PVRINOX,1677.4,19.73,40.72,Long,25,1488.92,11.24,0.0,1.09,10.9,29.8,PVR INOX Ltd.
-NSE: Textiles,PAGEIND,30955.0,-13.94,-16.28,Short,4,34867.75,-12.64,-28.28,1.44,4.5,-20.8,Page Industries Ltd.
-NSE: Chemicals,PARADEEP,141.42,-3.9,-2.62,Short,25,147.39,-4.22,-14.17,1.23,-8.8,6.2,Paradeep Phosphates Ltd.
-NSE: Fast Moving Consumer Goods,PATANJALI,404.8,10.21,15.13,Long,13,388.12,4.12,-30.73,1.05,-1.7,16.8,Patanjali Foods Ltd.
-NSE: Information Technology,PERSISTENT,5911.0,2.96,6.12,Long,26,5624.21,4.85,-9.3,1.0,-0.8,6.9,Persistent Systems Ltd.
-NSE: Oil Gas & Consumable Fuels,PETRONET,328.1,14.51,19.06,Long,140,306.96,6.44,-2.06,1.36,1.9,17.2,Petronet LNG Ltd.
-NSE: Realty,PHOENIXLTD,2229.0,17.51,15.66,Long,13,2045.01,8.25,-2.75,1.05,-2.3,18.0,Phoenix Mills Ltd.
-NSE: Consumer Services,PWL,130.07,-2.67,8.42,Short,17,139.0,-6.86,-16.21,0.7,-0.4,8.8,Physicswallah Ltd.
-NSE: Chemicals,PIDILITIND,1534.6,2.12,-8.05,Long,10,1462.86,4.68,-9.81,1.21,-8.8,0.8,Pidilite Industries Ltd.
-NSE: Financial Services,PINELABS,171.44,3.88,5.42,Long,4,153.67,10.37,-31.67,0.49,-1.0,6.4,Pine Labs Ltd.
-NSE: Financial Services,PIRAMALFIN,2100.6,7.71,1.67,Long,8,1866.95,11.12,-9.08,1.11,-1.0,2.7,Piramal Finance Ltd.
-NSE: Healthcare,PPLPHARMA,240.7,21.73,17.57,Long,14,220.33,8.46,-2.3,1.76,2.1,15.5,Piramal Pharma Ltd.
-NSE: Healthcare,POLYMED,1649.6,3.5,-4.65,Long,8,1502.4,8.92,-18.38,0.94,2.1,-6.8,Poly Medicure Ltd.
-NSE: Capital Goods,POLYCAB,7702.0,-6.29,-17.8,Short,92,8318.05,-8.0,-23.61,0.8,-9.8,-8.0,Polycab India Ltd.
-NSE: Financial Services,POONAWALLA,490.65,9.29,-1.37,Long,12,441.88,9.94,-2.4,1.19,-1.0,-0.4,Poonawalla Fincorp Ltd.
-NSE: Financial Services,PFC,328.0,-0.35,-10.34,Long,5,313.22,4.51,-29.62,0.86,-1.0,-9.3,Power Finance Corporation Ltd.
-NSE: Power,POWERGRID,258.0,4.21,-1.94,Long,12,245.2,4.96,-18.29,1.03,-7.2,5.3,Power Grid Corporation of India Ltd.
-NSE: Capital Goods,PREMIERENE,833.0,-7.5,-17.93,Short,75,924.29,-10.96,-25.4,0.95,-9.8,-8.1,Premier Energies Ltd.
-NSE: Realty,PRESTIGE,1691.5,13.37,6.26,Long,10,1498.05,11.44,-3.51,0.93,-2.3,8.6,Prestige Estates Projects Ltd.
-NSE: Media Entertainment & Publication,PFOCUS,279.0,-3.89,4.73,Short,31,318.16,-14.04,-21.95,1.03,10.9,-6.2,Prime Focus Ltd.
-NSE: Chemicals,PRIVISCL,3430.7,2.6,-0.38,Short,20,3560.99,-3.8,-8.14,1.21,-8.8,8.4,Privi Speciality Chemicals Ltd.
-NSE: Financial Services,PNB,150.0,28.98,27.86,Long,20,134.66,10.23,0.0,1.47,-1.0,28.9,Punjab National Bank
-NSE: Capital Goods,RRKABEL,1858.0,-21.93,-32.18,Short,21,2170.13,-16.8,-36.34,1.17,-9.8,-22.4,R R Kabel Ltd.
-NSE: Financial Services,RBLBANK,390.1,3.13,2.25,Long,5,353.88,9.28,-8.86,0.82,-1.0,3.2,RBL Bank Ltd.
-NSE: Financial Services,RECLTD,298.0,-2.03,-11.3,Long,5,284.98,4.37,-20.08,0.8,-1.0,-10.3,REC Ltd.
-NSE: Capital Goods,RHIM,343.5,-7.2,-7.61,Short,18,375.77,-9.39,-29.73,0.64,-9.8,2.2,RHI MAGNESITA INDIA LTD.
-NSE: Construction,RITES,192.64,-7.28,-11.09,Short,12,208.46,-8.21,-20.85,0.3,-5.6,-5.5,RITES Ltd.
-NSE: Fast Moving Consumer Goods,RADICO,4662.9,4.24,-0.65,Long,6,4268.56,8.46,-1.48,1.39,-1.7,1.0,Radico Khaitan Ltd
-NSE: Construction,RVNL,195.5,-1.98,-14.18,Long,6,187.07,4.31,-49.29,1.32,-5.6,-8.6,Rail Vikas Nigam Ltd.
-NSE: Telecommunication,RAILTEL,246.71,-2.98,-11.49,Long,5,228.87,7.23,-33.97,1.03,-3.4,-8.1,Railtel Corporation Of India Ltd.
-NSE: Healthcare,RAINBOW,1270.4,1.72,-14.08,Long,4,1173.08,7.66,-20.53,0.84,2.1,-16.2,Rainbow Childrens Medicare Ltd.
-NSE: Automobile and Auto Components,RKFORGE,782.2,13.44,3.89,Long,13,695.93,11.03,-1.22,1.57,-4.0,7.9,Ramkrishna Forgings Ltd.
-NSE: Services,REDINGTON,343.1,-10.53,3.09,Short,19,379.03,-10.47,-16.87,0.97,2.7,0.4,Redington Ltd.
-NSE: Oil Gas & Consumable Fuels,RELIANCE,1367.0,12.86,3.88,Long,11,1267.43,7.28,-13.75,1.29,1.9,2.0,Reliance Industries Ltd.
-NSE: Power,RPOWER,17.94,-4.01,-21.04,Long,13,16.93,5.63,-56.99,1.24,-7.2,-13.8,Reliance Power Ltd.
-NSE: Healthcare,RUBICON,1683.9,11.62,-6.38,Long,12,1550.82,7.9,-9.5,0.92,2.1,-8.5,Rubicon Research Ltd.
-NSE: Financial Services,SBICARD,574.5,1.83,-10.48,Long,8,539.27,6.13,-36.05,0.94,-1.0,-9.5,SBI Cards and Payment Services Ltd.
-NSE: Financial Services,SBILIFE,1815.0,9.55,1.37,Long,7,1686.84,7.06,-13.85,0.93,-1.0,2.4,SBI Life Insurance Company Ltd.
-NSE: Power,SJVN,55.88,3.71,-15.6,Long,12,52.08,6.8,-34.91,1.51,-7.2,-8.4,SJVN Ltd.
-NSE: Automobile and Auto Components,SHRIPISTON,4322.1,-6.65,-2.58,Long,193,4240.33,1.89,-8.99,0.7,-4.0,1.4,SPR Auto Technologies Ltd.
-NSE: Chemicals,SRF,2479.4,0.3,-5.22,Long,5,2320.62,6.4,-20.02,1.33,-8.8,3.6,SRF Ltd.
-NSE: Information Technology,SAGILITY,43.89,-2.79,3.86,Short,33,46.24,-5.35,-18.02,1.96,-0.8,4.7,Sagility Ltd.
-NSE: Healthcare,SAILIFE,1751.5,26.06,23.66,Long,12,1663.58,5.02,-9.19,1.73,2.1,21.6,Sai Life Sciences Ltd.
-NSE: Financial Services,SAMMAANCAP,131.29,-1.92,-14.37,Long,8,123.67,5.81,-28.76,1.15,-1.0,-13.4,Sammaan Capital Ltd.
-NSE: Automobile and Auto Components,MOTHERSON,164.39,2.74,-2.18,Long,8,149.66,8.96,-3.69,1.29,-4.0,1.8,Samvardhana Motherson International Ltd.
-NSE: Automobile and Auto Components,SANSERA,4614.6,11.99,15.42,Long,6,4161.84,9.81,-3.13,0.87,-4.0,19.4,Sansera Engineering Ltd.
-NSE: Metals & Mining,SARDAEN,449.0,-8.15,-13.84,Short,42,476.5,-6.13,-26.44,0.61,-8.1,-5.7,Sarda Energy and Minerals Ltd.
-NSE: Automobile and Auto Components,SCHAEFFLER,3653.9,-0.42,-9.31,Short,28,3753.62,-2.73,-16.1,1.19,-4.0,-5.3,Schaeffler India Ltd.
-NSE: Capital Goods,SCHNEIDER,1007.6,-12.95,-16.88,Short,84,1155.78,-14.71,-32.87,0.89,-9.8,-7.1,Schneider Electric Infrastructure Ltd.
-NSE: Services,SCI,260.58,-7.16,-7.34,Short,18,271.98,-4.37,-23.01,1.06,2.7,-10.0,Shipping Corporation of India Ltd.
-NSE: Construction Materials,SHREECEM,24900.0,10.86,1.49,Long,16,23534.98,5.48,-10.33,0.7,-4.4,5.9,Shree Cement Ltd.
-NSE: Financial Services,SHRIRAMFIN,982.85,5.39,-11.71,Long,8,896.42,8.79,-13.18,1.24,-1.0,-10.7,Shriram Finance Ltd.
-NSE: Capital Goods,SHYAMMETL,1321.1,10.23,33.86,Long,152,1203.41,8.91,-0.84,0.9,-9.8,43.7,Shyam Metalics and Energy Ltd.
-NSE: Capital Goods,ENRIN,3021.5,4.59,-16.2,Long,4,2756.23,8.78,-21.97,1.05,-9.8,-6.4,Siemens Energy India Ltd.
-NSE: Capital Goods,SIEMENS,3561.9,-1.71,-9.67,Long,6,3315.69,6.91,-13.42,1.11,-9.8,0.1,Siemens Ltd.
-NSE: Realty,SIGNATURE,835.6,14.49,3.79,Long,4,705.06,15.62,-27.12,1.31,-2.3,6.1,Signatureglobal (India) Ltd.
-NSE: Realty,SOBHA,1290.4,8.58,-2.32,Long,8,1134.79,12.06,-19.95,1.34,-2.3,-0.0,Sobha Ltd.
-NSE: Chemicals,SOLARINDS,18764.0,-6.23,-6.18,Short,43,20289.99,-8.13,-16.44,0.78,-8.8,2.6,Solar Industries India Ltd.
-NSE: Automobile and Auto Components,SONACOMS,899.7,12.46,11.75,Long,15,848.21,5.72,-2.84,1.25,-4.0,15.8,Sona BLW Precision Forgings Ltd.
-NSE: Financial Services,STARHEALTH,549.15,0.05,-6.01,Short,43,578.13,-5.28,-10.03,0.71,-1.0,-5.0,Star Health and Allied Insurance Company Ltd.
-NSE: Financial Services,SBIN,1108.6,15.17,4.47,Long,8,1031.87,6.92,-8.08,1.38,-1.0,5.5,State Bank of India
-NSE: Metals & Mining,SAIL,171.31,0.21,-0.03,Short,43,179.29,-4.66,-15.78,1.04,-8.1,8.1,Steel Authority of India Ltd.
-NSE: Telecommunication,STLTECH,641.5,-25.92,-0.15,Short,22,786.54,-22.61,-36.91,1.12,-3.4,3.2,Sterlite Technologies Ltd.
-NSE: Chemicals,SUMICHEM,342.4,-15.4,-38.84,Short,50,366.2,-6.95,-39.39,1.48,-8.8,-30.0,Sumitomo Chemical India Ltd.
-NSE: Healthcare,SUNPHARMA,1870.0,6.32,-0.64,Long,7,1776.25,5.01,-6.55,1.28,2.1,-2.7,Sun Pharmaceutical Industries Ltd.
-NSE: Media Entertainment & Publication,SUNTV,659.7,4.05,37.37,Long,38,579.83,12.11,-1.31,0.47,10.9,26.5,Sun TV Network Ltd.
-NSE: Financial Services,SUNDARMFIN,4358.0,2.86,-3.67,Long,5,3968.23,8.94,-21.51,1.14,-1.0,-2.7,Sundaram Finance Ltd.
-NSE: Capital Goods,SUPREMEIND,3231.3,-9.79,-9.65,Short,16,3495.06,-8.16,-19.4,1.16,-9.8,0.2,Supreme Industries Ltd.
-NSE: Capital Goods,SUZLON,37.19,-11.45,-24.1,Short,17,39.19,-5.39,-37.3,1.18,-9.8,-14.3,Suzlon Energy Ltd.
-NSE: Chemicals,SWANCORP,230.23,-13.24,-24.53,Short,30,255.51,-10.98,-51.69,0.46,-8.8,-15.7,Swan Corp Ltd.
-NSE: Consumer Services,SWIGGY,188.5,-19.55,-32.39,Short,34,206.54,-9.57,-54.74,1.22,-0.4,-32.0,Swiggy Ltd.
-NSE: Healthcare,SYNGENE,434.35,12.5,7.78,Long,24,399.3,8.07,-34.39,1.76,2.1,5.7,Syngene International Ltd.
-NSE: Capital Goods,SYRMA,1433.9,-10.64,-2.22,Short,19,1643.66,-14.63,-19.57,0.81,-9.8,7.6,Syrma SGS Technology Ltd.
-NSE: Consumer Services,TBOTEK,1586.0,-2.55,-6.71,Short,18,1676.32,-5.69,-9.12,0.62,-0.4,-6.3,TBO Tek Ltd.
-NSE: Capital Goods,TDPOWERSYS,620.25,-15.54,-19.82,Short,19,725.51,-16.97,-24.8,1.59,-9.8,-10.0,TD Power Systems Ltd.
-NSE: Automobile and Auto Components,TVSMOTOR,4466.2,9.06,1.83,Long,14,4215.67,5.61,-2.06,1.11,-4.0,5.8,TVS Motor Company Ltd.
-NSE: Financial Services,TATACAP,344.4,6.69,-4.13,Long,13,326.33,5.25,-10.01,1.37,-1.0,-3.1,Tata Capital Ltd.
-NSE: Chemicals,TATACHEM,649.45,2.57,-2.03,Short,36,657.74,-1.28,-22.63,0.72,-8.8,6.8,Tata Chemicals Ltd.
-NSE: Telecommunication,TATACOMM,1802.2,3.41,5.27,Long,2,1650.45,8.42,-12.59,0.81,-3.4,8.7,Tata Communications Ltd.
-NSE: Information Technology,TCS,2406.6,-2.37,4.59,Long,24,2331.68,3.11,-24.49,0.85,-0.8,5.4,Tata Consultancy Services Ltd.
-NSE: Fast Moving Consumer Goods,TATACONSUM,1112.4,13.64,3.71,Long,13,1045.03,6.06,-11.74,1.19,-1.7,5.4,Tata Consumer Products Ltd.
-NSE: Information Technology,TATAELXSI,3710.7,-3.62,-1.31,Long,24,3553.04,4.25,-35.46,0.59,-0.8,-0.5,Tata Elxsi Ltd.
-NSE: Financial Services,TATAINVEST,609.55,-0.65,-6.87,Short,35,612.83,-0.54,-21.37,0.33,-1.0,-5.9,Tata Investment Corporation Ltd.
-NSE: Capital Goods,TMCV,445.65,5.84,-5.26,Long,6,409.17,8.19,-10.81,1.2,-9.8,4.5,Tata Motors Ltd.
-NSE: Automobile and Auto Components,TMPV,259.2,-9.64,-21.5,Short,2,292.84,-12.98,-35.01,1.06,-4.0,-17.5,Tata Motors Passenger Vehicles Ltd.
-NSE: Power,TATAPOWER,344.5,-2.64,-9.7,Long,8,337.82,1.94,-24.94,1.31,-7.2,-2.5,Tata Power Co. Ltd.
-NSE: Metals & Mining,TATASTEEL,181.5,3.42,-2.42,Long,8,173.59,4.36,-16.23,0.95,-8.1,5.7,Tata Steel Ltd.
-NSE: Information Technology,TATATECH,659.8,-8.85,-21.61,Short,45,722.13,-9.45,-24.95,0.58,-0.8,-20.8,Tata Technologies Ltd.
-NSE: Telecommunication,TTML,37.11,10.61,-2.73,Long,18,33.16,10.64,-31.76,2.17,-3.4,0.7,Tata Teleservices (Maharashtra) Ltd.
-NSE: Information Technology,TECHM,1762.0,-0.75,10.35,Long,22,1683.86,4.43,-3.77,0.91,-0.8,11.2,Tech Mahindra Ltd.
-NSE: Construction,TECHNOE,950.0,0.36,-0.24,Long,8,878.09,7.57,-30.31,1.56,-5.6,5.4,Techno Electric & Engineering Company Ltd.
-NSE: Capital Goods,TEGA,1586.2,-17.52,-8.94,Short,19,1864.87,-17.57,-25.5,0.49,-9.8,0.9,Tega Industries Ltd.
-NSE: Telecommunication,TEJASNET,404.8,-14.73,-22.58,Short,43,449.11,-10.95,-35.98,0.52,-3.4,-19.2,Tejas Networks Ltd.
-NSE: Automobile and Auto Components,TENNIND,441.15,-3.36,-19.56,Short,117,471.37,-6.85,-32.27,1.28,-4.0,-15.6,Tenneco Clean Air India Ltd.
-NSE: Consumer Durables,THANGAMAYL,4072.5,-20.12,-23.69,Short,75,4606.52,-13.11,-44.28,0.96,-5.7,-18.0,Thangamayil Jewellery Ltd.
-NSE: Financial Services,NIACL,154.58,-13.92,-15.82,Short,11,171.63,-11.03,-33.14,0.12,-1.0,-14.8,The New India Assurance Company Ltd.
-NSE: Construction Materials,RAMCOCEM,823.3,2.22,-10.76,Long,8,759.09,7.8,-31.48,1.06,-4.4,-6.4,The Ramco Cements Ltd.
-NSE: Capital Goods,THERMAX,2737.8,-17.7,-33.89,Short,87,3085.31,-12.69,-46.72,1.41,-9.8,-24.1,Thermax Ltd.
-NSE: Capital Goods,TIMKEN,3148.5,8.96,-4.32,Long,11,2872.27,8.77,-16.35,0.99,-9.8,5.5,Timken India Ltd.
-NSE: Capital Goods,TITAGARH,731.9,-2.3,-10.74,Long,3,657.23,10.2,-21.43,1.36,-9.8,-0.9,Titagarh Rail Systems Ltd.
-NSE: Consumer Durables,TITAN,4908.0,10.42,-3.17,Long,10,4629.05,5.68,-5.05,1.19,-5.7,2.5,Titan Company Ltd.
-NSE: Healthcare,TORNTPHARM,4668.8,2.41,-4.72,Short,27,4812.85,-3.09,-8.86,1.02,2.1,-6.8,Torrent Pharmaceuticals Ltd.
-NSE: Power,TORNTPOWER,1216.0,-0.84,-7.37,Short,26,1271.71,-4.58,-31.16,0.93,-7.2,-0.2,Torrent Power Ltd.
-NSE: Capital Goods,TARIL,306.65,-6.82,3.59,Long,24,297.18,3.09,-14.49,0.44,-9.8,13.4,Transformers And Rectifiers (India) Ltd.
-NSE: Consumer Services,TRENT,3176.3,7.35,7.82,Long,12,2962.53,6.73,-27.78,1.03,-0.4,8.2,Trent Ltd.
-NSE: Textiles,TRIDENT,23.54,5.7,-4.19,Long,10,21.5,8.68,-17.91,2.03,4.5,-8.7,Trident Ltd.
-NSE: Capital Goods,TRITURBINE,475.55,-4.1,-20.19,Long,9,451.27,5.11,-35.64,1.27,-9.8,-10.4,Triveni Turbine Ltd.
-NSE: Automobile and Auto Components,TIINDIA,2230.8,1.52,-18.63,Long,8,2018.03,9.54,-32.52,1.08,-4.0,-14.6,Tube Investments of India Ltd.
-NSE: Financial Services,UCOBANK,24.88,4.85,-4.71,Long,6,23.23,6.63,-20.58,1.07,-1.0,-3.7,UCO Bank
-NSE: Automobile and Auto Components,UNOMINDA,1388.1,25.28,9.31,Long,9,1245.14,10.3,0.0,1.56,-4.0,13.3,UNO Minda Ltd.
-NSE: Chemicals,UPL,551.7,3.19,-2.72,Long,23,506.33,8.22,-30.83,1.14,-8.8,6.1,UPL Ltd.
-NSE: Financial Services,UTIAMC,847.65,-2.56,-6.57,Short,18,865.42,-2.1,-24.99,1.11,-1.0,-5.6,UTI Asset Management Company Ltd.
-NSE: Construction Materials,ULTRACEMCO,12290.0,12.68,5.21,Long,11,11548.83,6.03,-3.92,0.93,-4.4,9.6,UltraTech Cement Ltd.
-NSE: Financial Services,UNIONBANK,207.9,21.1,10.06,Long,18,193.96,6.7,0.0,1.25,-1.0,11.1,Union Bank of India
-NSE: Fast Moving Consumer Goods,UBL,1206.7,0.42,-11.78,Short,54,1237.52,-2.55,-32.87,1.44,-1.7,-10.1,United Breweries Ltd.
-NSE: Fast Moving Consumer Goods,UNITDSPR,1444.0,4.64,-6.54,Long,11,1346.76,6.73,-7.2,0.96,-1.7,-4.8,United Spirits Ltd.
-NSE: Consumer Services,URBANCO,161.63,2.22,11.78,Long,10,150.15,7.1,-10.75,1.21,-0.4,12.2,Urban Company Ltd.
-NSE: Capital Goods,USHAMART,459.55,-6.46,-7.73,Short,19,503.83,-9.63,-14.11,0.57,-9.8,2.1,Usha Martin Ltd.
-NSE: Textiles,VTL,527.35,-0.86,-12.13,Short,75,539.13,-2.23,-20.18,0.98,4.5,-16.6,Vardhman Textiles Ltd.
-NSE: Fast Moving Consumer Goods,VBL,430.0,0.0,-0.77,Long,8,400.05,6.97,-20.78,0.99,-1.7,0.9,Varun Beverages Ltd.
-NSE: Metals & Mining,VEDL,255.03,3.63,-3.56,Long,9,240.22,5.81,-66.97,1.13,-8.1,4.5,Vedanta Ltd.
-NSE: Healthcare,VIJAYA,1467.4,6.2,-2.47,Short,22,1491.57,-1.65,-6.58,1.14,2.1,-4.6,Vijaya Diagnostic Centre Ltd.
-NSE: Consumer Services,VMM,92.99,-3.14,-11.86,Long,5,87.46,5.95,-32.88,0.97,-0.4,-11.5,Vishal Mega Mart Ltd.
-NSE: Telecommunication,IDEA,12.3,-2.3,-10.28,Long,8,11.79,4.13,-21.15,0.91,-3.4,-6.9,Vodafone Idea Ltd.
-NSE: Consumer Durables,VOLTAS,1148.9,11.64,-9.32,Long,13,1042.15,9.29,-26.18,1.29,-5.7,-3.6,Voltas Ltd.
-NSE: Capital Goods,WAAREEENER,2441.5,-4.83,-9.74,Long,5,2320.15,4.97,-30.25,1.17,-9.8,0.1,Waaree Energies Ltd.
-NSE: Capital Goods,WELCORP,2260.2,-12.11,20.1,Short,16,2610.24,-15.49,-20.47,0.73,-9.8,29.9,Welspun Corp Ltd.
-NSE: Textiles,WELSPUNLIV,265.62,21.12,57.97,Long,11,217.26,18.21,0.0,1.52,4.5,53.5,Welspun Living Ltd.
-NSE: Consumer Durables,WHIRLPOOL,826.45,-2.79,6.95,Long,37,774.2,6.32,-33.22,0.22,-5.7,12.6,Whirlpool of India Ltd.
-NSE: Information Technology,WIPRO,189.89,2.98,4.39,Long,23,184.22,2.99,-27.75,0.89,-0.8,5.2,Wipro Ltd.
-NSE: Healthcare,WOCKPHARMA,2008.9,2.76,5.8,Long,4,1810.19,9.89,-13.77,0.68,2.1,3.7,Wockhardt Ltd.
-NSE: Financial Services,YESBANK,17.85,2.0,-22.12,Long,7,16.09,9.89,-29.95,1.22,-1.0,-21.1,Yes Bank Ltd.
-NSE: Automobile and Auto Components,ZFCVINDIA,2177.7,0.96,-17.0,Long,8,2133.19,2.04,-18.78,0.8,-4.0,-13.0,ZF Commercial Vehicle Control Systems India Ltd.
-NSE: Media Entertainment & Publication,ZEEL,71.29,-0.78,-30.4,Long,4,61.41,13.86,-36.94,1.29,10.9,-41.3,Zee Entertainment Enterprises Ltd.
-NSE: Capital Goods,ZENTEC,1719.6,3.87,-7.72,Long,22,1567.83,8.83,-13.85,1.38,-9.8,2.1,Zen Technologies Ltd.
-NSE: Information Technology,ZENSARTECH,528.0,3.99,7.59,Long,24,501.55,5.01,-27.71,0.64,-0.8,8.4,Zensar Technolgies Ltd.
-NSE: Healthcare,ZYDUSLIFE,1204.2,7.23,6.43,Long,12,1141.89,5.17,-3.32,1.08,2.1,4.3,Zydus Lifesciences Ltd.
-NSE: Fast Moving Consumer Goods,ZYDUSWELL,460.35,-10.22,-9.76,Short,33,513.84,-11.62,-23.59,0.78,-1.7,-8.1,Zydus Wellness Ltd.
-NSE: Services,ECLERX,1546.1,-21.0,-16.33,Short,13,1743.35,-12.76,-37.46,1.34,2.7,-19.0,eClerx Services Ltd.
+NSE: Financial Services,360ONE,1211.05,15.62,4.83,Long,10,1106.24,8.65,0.0,1.05,-1.9,6.7,360 ONE WAM Ltd.
+NSE: Capital Goods,ABB,6851.0,-1.76,-9.21,Long,4,6332.48,7.57,-11.14,1.26,-10.9,1.7,ABB India Ltd.
+NSE: Construction Materials,ACC,1229.8,5.31,-5.68,Long,9,1146.02,6.81,-35.37,1.34,-4.8,-0.9,ACC Ltd.
+NSE: Power,ACMESOLAR,409.7,-1.93,10.21,Short,19,431.46,-5.31,-10.67,0.59,-7.8,18.0,ACME Solar Holdings Ltd.
+NSE: Capital Goods,AIAENG,3327.2,-9.22,-24.91,Short,67,3502.13,-5.26,-34.28,1.62,-10.9,-14.0,AIA Engineering Ltd.
+NSE: Capital Goods,APLAPOLLO,2161.2,0.77,2.58,Long,16,2098.71,2.89,-4.88,1.27,-10.9,13.5,APL Apollo Tubes Ltd.
+NSE: Financial Services,AUBANK,977.0,0.55,-9.18,Long,5,894.22,8.47,-13.43,1.36,-1.9,-7.3,AU Small Finance Bank Ltd.
+NSE: Fast Moving Consumer Goods,AWL,170.85,-5.41,-10.1,Short,18,177.69,-4.0,-38.13,1.02,-1.7,-8.4,AWL Agri Business Ltd.
+NSE: Financial Services,AADHARHFC,421.1,-5.82,-13.6,Short,81,464.48,-10.3,-24.33,1.01,-1.9,-11.7,Aadhar Housing Finance Ltd.
+NSE: Chemicals,AARTIIND,462.55,-3.43,-12.57,Short,49,488.68,-5.65,-14.67,1.19,-9.4,-3.2,Aarti Industries Ltd.
+NSE: Financial Services,AAVAS,1121.9,-3.86,-19.19,Short,81,1206.26,-7.52,-35.39,1.63,-1.9,-17.3,Aavas Financiers Ltd.
+NSE: Healthcare,ABBOTINDIA,25470.0,-1.68,-4.18,Long,10,24696.79,3.04,-13.7,1.14,1.4,-5.6,Abbott India Ltd.
+NSE: Capital Goods,ACE,1189.2,7.32,0.56,Long,8,1061.03,10.78,-5.16,1.03,-10.9,11.5,Action Construction Equipment Ltd.
+NSE: Healthcare,ACUTAAS,3991.3,22.68,17.78,Long,16,3526.75,11.64,-1.18,1.59,1.4,16.4,Acutaas Chemicals Ltd.
+NSE: Power,ADANIENSOL,1490.0,9.17,-7.05,Long,10,1345.73,9.68,-14.45,0.94,-7.8,0.8,Adani Energy Solutions Ltd.
+NSE: Metals & Mining,ADANIENT,2684.2,1.0,-10.6,Long,10,2516.58,6.24,-16.43,0.92,-8.9,-1.7,Adani Enterprises Ltd.
+NSE: Power,ADANIGREEN,1404.1,8.41,7.35,Long,10,1303.72,7.15,-12.49,1.02,-7.8,15.2,Adani Green Energy Ltd.
+NSE: Services,ADANIPORTS,1902.6,7.73,13.09,Long,47,1782.81,6.3,-2.06,1.0,1.6,11.5,Adani Ports and Special Economic Zone Ltd.
+NSE: Power,ADANIPOWER,205.3,5.78,-0.14,Long,10,191.4,6.77,-17.52,0.95,-7.8,7.7,Adani Power Ltd.
+NSE: Oil Gas & Consumable Fuels,ATGL,565.3,-1.46,-12.67,Long,9,534.95,5.37,-30.06,0.37,1.2,-13.9,Adani Total Gas Ltd.
+NSE: Financial Services,ABCAPITAL,412.4,10.55,2.59,Long,12,377.18,8.54,-2.9,1.07,-1.9,4.5,Aditya Birla Capital Ltd.
+NSE: Realty,ABREL,1243.0,13.15,-10.63,Long,5,1088.13,12.46,-31.03,1.39,-1.8,-8.8,Aditya Birla Real Estate Ltd.
+NSE: Financial Services,ABSLAMC,927.45,-3.26,-8.47,Long,5,827.01,10.83,-20.71,1.01,-1.9,-6.6,Aditya Birla Sun Life AMC Ltd.
+NSE: Capital Goods,CPPLUS,3941.6,-1.71,17.94,Long,31,3788.66,3.88,-11.23,0.87,-10.9,28.8,Aditya Infotech Ltd.
+NSE: Oil Gas & Consumable Fuels,AEGISLOG,1176.6,-11.65,-13.97,Short,18,1366.14,-16.11,-20.99,1.27,1.2,-15.2,Aegis Logistics Ltd.
+NSE: Oil Gas & Consumable Fuels,AEGISVOPAK,280.22,5.19,1.97,Long,6,248.3,11.39,-11.96,0.69,1.2,0.8,Aegis Vopak Terminals Ltd.
+NSE: Chemicals,AETHER,1647.2,8.27,0.83,Long,6,1478.21,10.26,-8.48,1.04,-9.4,10.2,Aether Industries Ltd.
+NSE: Construction,AFCONS,218.44,-10.88,-22.06,Short,124,234.38,-7.3,-47.0,0.54,-7.2,-14.9,Afcons Infrastructure Ltd.
+NSE: Information Technology,AFFLE,1585.1,9.31,-7.37,Long,12,1430.89,9.73,-13.0,1.62,-0.5,-6.9,Affle 3i Ltd.
+NSE: Healthcare,AJANTPHARM,3273.8,-0.76,-11.67,Short,28,3525.07,-7.68,-11.95,1.46,1.4,-13.1,Ajanta Pharmaceuticals Ltd.
+NSE: Healthcare,ALKEM,5222.5,4.37,-4.61,Long,7,5010.34,4.06,-10.46,1.02,1.4,-6.0,Alkem Laboratories Ltd.
+NSE: Fast Moving Consumer Goods,ABDL,798.05,7.85,30.27,Long,42,716.96,10.16,0.0,0.71,-1.7,32.0,Allied Blenders and Distillers Ltd.
+NSE: Automobile and Auto Components,ARE&M,747.4,2.58,-19.66,Long,7,694.75,7.04,-22.52,1.24,-5.5,-14.2,Amara Raja Energy & Mobility Ltd.
+NSE: Consumer Durables,AMBER,6236.5,-4.49,-15.15,Long,9,5872.67,5.83,-29.47,1.75,-6.7,-8.4,Amber Enterprises India Ltd.
+NSE: Construction Materials,AMBUJACEM,384.8,6.34,-6.69,Long,9,354.82,7.79,-32.31,1.58,-4.8,-1.9,Ambuja Cements Ltd.
+NSE: Financial Services,ANANDRATHI,2375.1,9.76,8.42,Long,18,2279.24,4.04,-0.51,0.79,-1.9,10.3,Anand Rathi Wealth Ltd.
+NSE: Realty,ANANTRAJ,455.0,-8.55,-27.44,Short,43,510.2,-12.13,-28.71,1.02,-1.8,-25.6,Anant Raj Ltd.
+NSE: Financial Services,ANGELONE,338.3,12.22,16.51,Long,9,320.24,5.34,-3.9,1.39,-1.9,18.4,Angel One Ltd.
+NSE: Healthcare,ANTHEM,914.35,13.09,2.61,Long,10,872.77,4.55,-4.57,0.73,1.4,1.2,Anthem Biosciences Ltd.
+NSE: Chemicals,ANURAS,1321.1,19.05,9.28,Long,4,1220.55,7.61,-3.87,0.99,-9.4,18.7,Anupam Rasayan India Ltd.
+NSE: Capital Goods,APARINDS,13993.0,-11.08,-18.43,Short,22,16053.49,-14.73,-26.14,1.22,-10.9,-7.5,Apar Industries Ltd.
+NSE: Healthcare,APOLLOHOSP,8821.0,14.56,0.05,Long,13,8196.68,7.08,-2.73,0.96,1.4,-1.3,Apollo Hospitals Enterprise Ltd.
+NSE: Automobile and Auto Components,APOLLOTYRE,415.1,-0.4,-4.79,Long,9,389.03,6.28,-21.7,0.96,-5.5,0.7,Apollo Tyres Ltd.
+NSE: Financial Services,APTUS,189.03,-10.34,-25.6,Short,80,198.71,-5.12,-37.69,1.75,-1.9,-23.7,Aptus Value Housing Finance India Ltd.
+NSE: Automobile and Auto Components,ASAHIINDIA,1157.3,25.75,20.45,Long,11,1049.18,9.34,-0.79,1.54,-5.5,26.0,Asahi India Glass Ltd.
+NSE: Capital Goods,ASHOKLEY,162.45,9.97,-7.88,Long,9,158.41,2.49,-22.04,1.42,-10.9,3.0,Ashok Leyland Ltd.
+NSE: Consumer Durables,ASIANPAINT,2580.3,10.97,-1.6,Long,11,2419.38,6.24,-12.12,1.42,-6.7,5.1,Asian Paints Ltd.
+NSE: Healthcare,ASTERDM,731.0,9.57,-10.64,Long,10,667.88,8.63,-15.95,0.93,1.4,-12.0,Aster DM Quality Care Ltd.
+NSE: Capital Goods,ASTRAL,1230.3,-13.74,-18.96,Short,17,1340.57,-8.96,-29.35,1.18,-10.9,-8.1,Astral Ltd.
+NSE: Automobile and Auto Components,ATHERENERG,1901.1,30.3,29.7,Long,16,1755.96,7.63,-2.26,1.05,-5.5,35.2,Ather Energy Ltd.
+NSE: Chemicals,ATUL,5018.5,-17.49,-24.06,Short,54,5452.05,-8.64,-29.05,1.32,-9.4,-14.7,Atul Ltd.
+NSE: Healthcare,AUROPHARMA,1796.3,11.21,9.61,Long,9,1693.61,5.72,-2.81,1.3,1.4,8.2,Aurobindo Pharma Ltd.
+NSE: Financial Services,AIIL,554.8,1.07,0.28,Long,9,529.07,4.64,-16.93,0.63,-1.9,2.2,Authum Investment & Infrastructure Ltd.
+NSE: Fast Moving Consumer Goods,AVANTIFEED,717.4,-0.77,-17.17,Long,5,653.62,8.89,-51.74,1.83,-1.7,-15.5,Avanti Feeds Ltd.
+NSE: Consumer Services,DMART,3459.0,4.69,-13.11,Long,10,3284.23,5.05,-25.27,0.84,-0.7,-12.4,Avenue Supermarts Ltd.
+NSE: Financial Services,AXISBANK,1360.0,10.03,9.41,Long,23,1284.91,5.52,-2.99,1.03,-1.9,11.3,Axis Bank Ltd.
+NSE: Capital Goods,AZAD,2318.9,-13.64,-18.89,Short,20,2627.39,-13.3,-24.28,0.96,-10.9,-8.0,Azad Engineering Ltd.
+NSE: Capital Goods,BEML,2020.2,4.22,3.39,Long,11,1857.74,8.04,-4.95,1.25,-10.9,14.3,BEML Ltd.
+NSE: Consumer Services,BLS,227.75,3.04,-14.75,Short,59,234.13,-2.8,-30.91,0.91,-0.7,-14.0,BLS International Services Ltd.
+NSE: Financial Services,BSE,3755.7,12.58,13.53,Long,23,3593.97,4.31,-14.48,0.84,-1.9,15.4,BSE Ltd.
+NSE: Automobile and Auto Components,BAJAJ-AUTO,10570.0,2.75,-8.93,Long,11,10280.74,2.74,-14.49,1.22,-5.5,-3.4,Bajaj Auto Ltd.
+NSE: Financial Services,BAJFINANCE,1093.85,14.26,-0.04,Long,10,1025.99,6.2,-5.6,1.15,-1.9,1.9,Bajaj Finance Ltd.
+NSE: Financial Services,BAJAJFINSV,1856.2,9.19,-7.71,Long,9,1735.07,6.53,-11.82,1.12,-1.9,-5.8,Bajaj Finserv Ltd.
+NSE: Financial Services,BAJAJHLDNG,11246.0,-0.17,0.51,Long,6,10434.48,7.22,-8.9,1.0,-1.9,2.4,Bajaj Holdings & Investment Ltd.
+NSE: Financial Services,BAJAJHFL,81.09,-1.96,-3.88,Short,82,83.45,-2.92,-24.67,0.94,-1.9,-2.0,Bajaj Housing Finance Ltd.
+NSE: Automobile and Auto Components,BALKRISIND,2286.4,10.58,-3.63,Long,11,2156.6,5.68,-15.39,1.12,-5.5,1.9,Balkrishna Industries Ltd.
+NSE: Fast Moving Consumer Goods,BALRAMCHIN,637.45,-8.62,-1.82,Long,10,582.08,8.69,-16.39,0.79,-1.7,-0.1,Balrampur Chini Mills Ltd.
+NSE: Financial Services,BANDHANBNK,170.06,3.82,-0.26,Long,6,156.25,8.12,-20.86,0.81,-1.9,1.6,Bandhan Bank Ltd.
+NSE: Financial Services,BANKBARODA,274.5,15.24,12.5,Long,14,255.59,6.89,-12.66,1.31,-1.9,14.4,Bank of Baroda
+NSE: Financial Services,BANKINDIA,158.0,15.51,11.19,Long,9,144.76,8.38,-7.92,1.35,-1.9,13.1,Bank of India
+NSE: Financial Services,MAHABANK,96.0,18.58,19.27,Long,9,88.36,7.96,0.0,1.23,-1.9,21.2,Bank of Maharashtra
+NSE: Consumer Durables,BATAINDIA,624.0,-1.82,-14.3,Long,16,593.88,4.83,-37.52,1.21,-6.7,-7.6,Bata India Ltd.
+NSE: Automobile and Auto Components,BELRISE,234.48,3.2,-0.71,Long,3,208.21,11.2,-10.06,1.64,-5.5,4.8,Belrise Industries Ltd.
+NSE: Consumer Durables,BERGEPAINT,467.15,-0.61,-13.68,Short,1,508.41,-8.83,-20.24,0.96,-6.7,-7.0,Berger Paints India Ltd.
+NSE: Capital Goods,BDL,1013.4,-6.86,-27.23,Long,7,993.82,1.93,-36.96,1.24,-10.9,-16.3,Bharat Dynamics Ltd.
+NSE: Capital Goods,BEL,395.8,4.93,-3.93,Long,10,375.86,5.04,-15.39,1.03,-10.9,7.0,Bharat Electronics Ltd.
+NSE: Automobile and Auto Components,BHARATFORG,1684.5,-6.34,-19.74,Short,68,1842.91,-9.4,-25.64,1.37,-5.5,-14.2,Bharat Forge Ltd.
+NSE: Capital Goods,BHEL,421.7,-1.32,-0.78,Short,20,436.3,-3.46,-9.12,0.96,-10.9,10.1,Bharat Heavy Electricals Ltd.
+NSE: Oil Gas & Consumable Fuels,BPCL,305.5,3.81,-1.55,Long,9,292.82,4.15,-21.32,1.2,1.2,-2.8,Bharat Petroleum Corporation Ltd.
+NSE: Telecommunication,BHARTIARTL,2132.0,13.69,10.23,Long,23,2010.74,5.69,-1.0,1.17,-3.2,13.4,Bharti Airtel Ltd.
+NSE: Telecommunication,BHARTIHEXA,1666.3,2.06,4.12,Long,28,1559.55,6.41,-8.52,0.89,-3.2,7.3,Bharti Hexacom Ltd.
+NSE: Financial Services,GROWW,223.52,12.84,15.33,Long,23,205.72,7.97,-1.76,1.14,-1.9,17.2,Billionbrains Garage Ventures Ltd.
+NSE: Healthcare,BIOCON,361.95,6.46,-13.31,Long,14,339.98,6.07,-17.87,1.05,1.4,-14.7,Biocon Ltd.
+NSE: Information Technology,BSOFT,301.75,-2.56,-0.31,Long,25,289.68,4.0,-33.6,1.41,-0.5,0.2,Birlasoft Ltd.
+NSE: Information Technology,BBOX,880.0,-1.62,13.35,Short,17,907.27,-3.1,-18.27,1.0,-0.5,13.8,Black Box Ltd.
+NSE: Consumer Durables,BLUESTARCO,1621.8,3.22,8.63,Long,35,1454.83,10.3,-19.19,1.01,-6.7,15.3,Blue Star Ltd.
+NSE: Automobile and Auto Components,BOSCHLTD,49170.0,8.8,0.9,Long,15,47724.88,2.94,-6.3,1.18,-5.5,6.4,Bosch Ltd.
+NSE: Consumer Services,FIRSTCRY,175.44,0.72,-14.27,Short,111,179.06,-2.07,-48.87,1.22,-0.7,-13.6,Brainbees Solutions Ltd.
+NSE: Realty,BRIGADE,565.95,-0.91,-3.9,Short,44,589.17,-4.1,-20.55,1.09,-1.8,-2.1,Brigade Enterprises Ltd.
+NSE: Fast Moving Consumer Goods,BRITANNIA,4673.2,-0.68,-14.96,Long,11,4666.36,0.15,-23.18,1.09,-1.7,-13.3,Britannia Industries Ltd.
+NSE: Realty,BIRET,319.76,2.31,-4.77,Long,9,305.54,4.45,-8.78,0.8,-1.8,-3.0,Brookfield India Real Estate Trust
+NSE: Fast Moving Consumer Goods,CCL,951.7,-3.56,-15.7,Short,21,1012.23,-6.36,-22.39,1.03,-1.7,-14.0,CCL Products (I) Ltd.
+NSE: Power,CESC,124.28,-6.8,-23.27,Short,112,136.0,-9.43,-35.14,1.14,-7.8,-15.5,CESC Ltd.
+NSE: Capital Goods,CGPOWER,791.0,-7.49,-11.54,Short,43,865.79,-9.46,-19.0,1.21,-10.9,-0.6,CG Power and Industrial Solutions Ltd.
+NSE: Automobile and Auto Components,CIEINDIA,366.4,-1.35,-10.57,Long,5,343.76,6.18,-25.26,1.12,-5.5,-5.1,CIE Automotive India Ltd.
+NSE: Financial Services,CRISIL,4189.0,-7.14,-5.36,Short,1,4593.95,-9.67,-12.95,1.22,-1.9,-3.5,CRISIL Ltd.
+NSE: Financial Services,CANFINHOME,770.7,5.26,-6.49,Long,6,723.71,6.1,-18.15,0.63,-1.9,-4.6,Can Fin Homes Ltd.
+NSE: Financial Services,CANBK,133.4,9.34,3.33,Long,7,124.21,6.89,-13.29,1.28,-1.9,5.2,Canara Bank
+NSE: Financial Services,CANHLIFE,127.01,-0.87,-14.91,Long,4,118.71,6.54,-19.22,0.79,-1.9,-13.0,Canara HSBC Life Insurance Company Ltd.
+NSE: Healthcare,CAPLIPOINT,2085.3,-7.68,-17.44,Short,2,2474.79,-18.68,-27.28,0.9,1.4,-18.8,Caplin Point Laboratories Ltd.
+NSE: Financial Services,CGCL,239.88,-1.56,6.44,Short,28,253.78,-5.8,-14.3,1.48,-1.9,8.3,Capri Global Capital Ltd.
+NSE: Capital Goods,CARBORUNIV,996.1,-8.53,-11.54,Short,23,1140.86,-14.53,-23.17,0.67,-10.9,-0.6,Carborundum Universal Ltd.
+NSE: Consumer Services,CARTRADE,2628.6,-13.33,-6.21,Short,15,2797.21,-6.41,-19.57,1.48,-0.7,-5.5,Cartrade Tech Ltd.
+NSE: Oil Gas & Consumable Fuels,CASTROLIND,190.38,-3.26,1.89,Short,16,199.75,-4.92,-5.6,1.12,1.2,0.7,Castrol India Ltd.
+NSE: Automobile and Auto Components,CEATLTD,3498.9,6.33,-2.95,Long,10,3265.32,6.68,-13.06,1.03,-5.5,2.6,Ceat Ltd.
+NSE: Construction,CEMPRO,1354.4,15.88,2.3,Long,14,1184.4,12.55,-17.39,1.19,-7.2,9.5,Cemindia Projects Ltd.
+NSE: Financial Services,CENTRALBK,32.43,4.71,4.55,Long,7,30.3,6.58,-18.49,1.13,-1.9,6.4,Central Bank of India
+NSE: Financial Services,CDSL,1416.6,11.54,5.67,Long,11,1340.0,5.41,-12.84,1.34,-1.9,7.6,Central Depository Services (India) Ltd.
+NSE: Chemicals,CHAMBLFERT,371.65,-1.69,-13.33,Long,10,352.1,5.26,-22.13,1.04,-9.4,-3.9,Chambal Fertilizers & Chemicals Ltd.
+NSE: Oil Gas & Consumable Fuels,CHENNPETRO,1419.7,0.78,2.82,Long,29,1328.02,6.46,-11.24,0.8,1.2,1.6,Chennai Petroleum Corporation Ltd.
+NSE: Financial Services,CHOICEIN,714.8,-2.57,-11.05,Short,28,753.7,-5.44,-15.94,1.3,-1.9,-9.2,Choice International Ltd.
+NSE: Financial Services,CHOLAHLDNG,1432.4,5.11,-8.37,Long,12,1297.34,9.43,-27.47,1.04,-1.9,-6.5,Cholamandalam Financial Holdings Ltd.
+NSE: Financial Services,CHOLAFIN,1875.0,20.73,0.37,Long,14,1712.35,8.67,-3.35,1.14,-1.9,2.3,Cholamandalam Investment and Finance Company Ltd.
+NSE: Healthcare,CIPLA,1417.0,7.02,-0.99,Long,11,1336.48,5.68,-6.86,1.31,1.4,-2.4,Cipla Ltd.
+NSE: Financial Services,CUB,232.2,0.54,4.51,Short,17,237.97,-2.48,-2.63,1.31,-1.9,6.4,City Union Bank Ltd.
+NSE: Chemicals,CLEAN,698.95,-8.01,-15.59,Short,35,739.72,-5.83,-26.24,1.02,-9.4,-6.2,Clean Science and Technology Ltd.
+NSE: Oil Gas & Consumable Fuels,COALINDIA,388.0,-3.33,-0.95,Short,26,408.52,-5.29,-15.2,1.18,1.2,-2.2,Coal India Ltd.
+NSE: Capital Goods,COCHINSHIP,1139.4,-6.86,-23.0,Long,7,1119.19,1.77,-36.98,1.15,-10.9,-12.1,Cochin Shipyard Ltd.
+NSE: Information Technology,COFORGE,2049.0,6.44,15.57,Long,23,1882.51,8.13,-2.38,1.05,-0.5,16.1,Coforge Ltd.
+NSE: Healthcare,COHANCE,456.4,-0.28,0.26,Long,151,432.45,5.25,-27.45,0.7,1.4,-1.1,Cohance Lifesciences Ltd.
+NSE: Fast Moving Consumer Goods,COLPAL,1688.4,-1.55,-9.92,Long,6,1602.68,5.08,-24.44,0.94,-1.7,-8.2,Colgate Palmolive (India) Ltd.
+NSE: Financial Services,CAMS,716.0,4.6,-5.62,Long,9,666.43,6.92,-13.29,1.37,-1.9,-3.7,Computer Age Management Services Ltd.
+NSE: Healthcare,CONCORDBIO,561.0,-12.74,-28.34,Short,50,642.95,-14.61,-29.32,1.22,1.4,-29.7,Concord Biotech Ltd.
+NSE: Services,CONCOR,436.95,-0.64,-15.16,Long,7,414.66,5.1,-17.61,1.08,1.6,-16.8,Container Corporation of India Ltd.
+NSE: Chemicals,COROMANDEL,1959.0,10.61,-5.03,Long,9,1777.26,9.28,-18.25,1.18,-9.4,4.4,Coromandel International Ltd.
+NSE: Automobile and Auto Components,CRAFTSMAN,11345.0,1.68,4.17,Long,21,10048.1,11.43,-4.27,1.04,-5.5,9.7,Craftsman Automation Ltd.
+NSE: Financial Services,CREDITACC,1046.2,-14.7,-31.38,Short,59,1173.98,-12.21,-35.18,1.69,-1.9,-29.5,CreditAccess Grameen Ltd.
+NSE: Consumer Durables,CROMPTON,207.3,-0.55,-15.32,Long,7,194.53,6.16,-30.52,1.11,-6.7,-8.6,Crompton Greaves Consumer Electricals Ltd.
+NSE: Capital Goods,CUMMINSIND,4005.0,-13.16,-25.14,Short,9,4505.44,-12.5,-33.0,1.59,-10.9,-14.2,Cummins India Ltd.
+NSE: Fast Moving Consumer Goods,CUPID,363.2,8.0,27.87,Long,5,326.37,10.14,-5.61,0.7,-1.7,29.6,Cupid Ltd.
+NSE: Information Technology,CYIENT,1086.4,-6.39,27.84,Long,61,1053.05,3.07,-11.7,1.51,-0.5,28.3,Cyient Ltd.
+NSE: Realty,DLF,764.3,13.59,14.8,Long,38,709.14,7.22,-0.65,0.86,-1.8,16.6,DLF Ltd.
+NSE: Fast Moving Consumer Goods,DOMS,2041.0,-1.62,-7.85,Long,9,1870.81,8.34,-23.54,1.48,-1.7,-6.1,DOMS Industries Ltd.
+NSE: Fast Moving Consumer Goods,DABUR,379.25,1.13,-5.14,Long,10,358.76,5.4,-26.19,0.89,-1.7,-3.4,Dabur India Ltd.
+NSE: Construction Materials,DALBHARAT,1510.9,-6.62,-17.52,Short,51,1550.43,-2.62,-31.93,1.76,-4.8,-12.7,Dalmia Bharat Ltd.
+NSE: Capital Goods,DATAPATTNS,4111.0,1.46,-13.22,Long,5,3684.41,10.38,-16.65,1.27,-10.9,-2.3,Data Patterns (India) Ltd.
+NSE: Chemicals,DEEPAKFERT,1480.5,17.9,1.26,Long,3,1255.9,15.17,-10.44,1.43,-9.4,10.7,Deepak Fertilisers & Petrochemicals Corp. Ltd.
+NSE: Chemicals,DEEPAKNTR,1562.9,0.79,-11.75,Long,6,1449.79,7.24,-16.3,1.44,-9.4,-2.3,Deepak Nitrite Ltd.
+NSE: Services,DELHIVERY,449.5,12.38,-0.51,Long,11,410.35,8.71,-13.61,1.22,1.6,-2.1,Delhivery Ltd.
+NSE: Consumer Services,DEVYANI,122.73,3.73,-13.63,Long,9,115.27,6.08,-18.13,1.1,-0.7,-12.9,Devyani International Ltd.
+NSE: Healthcare,DIVISLAB,11049.0,21.59,28.66,Long,13,10400.26,5.87,-4.47,1.3,1.4,27.3,Divi's Laboratories Ltd.
+NSE: Consumer Durables,DIXON,12615.0,4.26,-10.78,Long,12,11824.24,6.27,-19.57,1.12,-6.7,-4.1,Dixon Technologies (India) Ltd.
+NSE: Healthcare,LALPATHLAB,1965.4,6.87,3.62,Long,149,1812.83,7.76,-3.12,0.98,1.4,2.2,Dr. Lal Path Labs Ltd.
+NSE: Healthcare,DRREDDY,1398.2,12.53,18.61,Long,40,1314.23,6.01,0.0,1.05,1.4,17.2,Dr. Reddy's Laboratories Ltd.
+NSE: Fast Moving Consumer Goods,EIDPARRY,647.0,-4.01,-17.12,Long,5,607.19,6.15,-39.46,0.93,-1.7,-15.4,E.I.D. Parry (India) Ltd.
+NSE: Consumer Services,EIHOTEL,313.45,2.82,5.65,Long,41,289.94,7.5,-17.88,0.77,-0.7,6.4,EIH Ltd.
+NSE: Realty,EMBASSY,422.08,-1.5,-2.41,Short,32,427.75,-1.34,-5.13,0.77,-1.8,-0.6,EMBASSY OFFICE PARKS REIT
+NSE: Automobile and Auto Components,EICHERMOT,7700.0,4.78,-3.97,Long,22,7119.1,7.54,-5.0,1.23,-5.5,1.5,Eicher Motors Ltd.
+NSE: Capital Goods,ELECON,445.7,-3.15,2.82,Long,24,415.28,6.82,-20.47,0.29,-10.9,13.7,Elecon Engineering Co. Ltd.
+NSE: Capital Goods,ELGIEQUIP,569.3,4.58,-7.31,Long,10,526.98,7.43,-11.38,1.15,-10.9,3.6,Elgi Equipments Ltd.
+NSE: Fast Moving Consumer Goods,EMAMILTD,412.8,11.42,4.44,Long,7,376.33,8.84,-22.52,0.5,-1.7,6.1,Emami Ltd.
+NSE: Healthcare,EMCURE,2334.8,32.16,24.8,Long,11,2124.56,9.0,-1.14,1.37,1.4,23.4,Emcure Pharmaceuticals Ltd.
+NSE: Capital Goods,EMMVEE,270.12,0.01,-14.71,Long,4,240.34,11.02,-25.84,0.83,-10.9,-3.8,Emmvee Photovoltaic Power Ltd.
+NSE: Automobile and Auto Components,ENDURANCE,2471.9,4.35,-18.1,Long,10,2321.43,6.09,-18.41,1.16,-5.5,-12.6,Endurance Technologies Ltd.
+NSE: Construction,ENGINERSIN,304.7,13.48,26.13,Long,12,274.74,9.83,-2.99,0.98,-7.2,33.3,Engineers India Ltd.
+NSE: Capital Goods,ESCORTS,2400.7,-11.31,-21.6,Short,49,2569.0,-7.01,-38.41,1.29,-10.9,-10.7,Escorts Kubota Ltd.
+NSE: Consumer Services,ETERNAL,366.0,14.3,15.86,Long,13,345.08,5.72,-2.41,1.22,-0.7,16.6,Eternal Ltd.
+NSE: Automobile and Auto Components,EXIDEIND,389.05,8.02,-16.38,Long,7,344.91,11.35,-20.71,1.35,-5.5,-10.9,Exide Industries Ltd.
+NSE: Consumer Services,NYKAA,352.0,4.56,9.79,Long,14,330.51,6.1,-3.61,1.15,-0.7,10.5,FSN E-Commerce Ventures Ltd.
+NSE: Financial Services,FEDERALBNK,360.35,3.3,0.71,Long,21,338.6,6.04,-2.72,0.92,-1.9,2.6,Federal Bank Ltd.
+NSE: Chemicals,FACT,771.25,6.63,-2.97,Long,10,714.52,7.36,-22.7,1.66,-9.4,6.4,Fertilisers and Chemicals Travancore Ltd.
+NSE: Capital Goods,FINCABLES,1186.0,-7.52,-10.15,Short,21,1305.02,-10.04,-20.05,1.16,-10.9,0.8,Finolex Cables Ltd.
+NSE: Services,FSL,273.0,-1.02,3.47,Long,44,272.13,0.32,-24.03,0.48,1.6,1.9,Firstsource Solutions Ltd.
+NSE: Financial Services,FIVESTAR,426.55,-14.95,-20.32,Long,5,392.3,8.03,-33.51,1.21,-1.9,-18.4,Five-Star Business Finance Ltd.
+NSE: Automobile and Auto Components,FORCEMOT,20088.0,14.38,10.69,Long,10,17722.16,11.78,-21.85,1.24,-5.5,16.2,Force Motors Ltd.
+NSE: Healthcare,FORTIS,793.55,7.56,-13.43,Long,11,736.23,7.22,-19.79,0.88,1.4,-14.8,Fortis Healthcare Ltd.
+NSE: Oil Gas & Consumable Fuels,GAIL,190.0,13.57,9.83,Long,12,176.63,7.04,0.0,1.22,1.2,8.6,GAIL (India) Ltd.
+NSE: Capital Goods,GVT&D,4320.0,10.06,3.23,Long,15,3822.45,11.52,-21.74,1.09,-10.9,14.1,GE Vernova T&D India Ltd.
+NSE: Services,GMRAIRPORT,104.4,15.87,2.97,Long,10,96.7,7.37,-9.2,0.97,1.6,1.4,GMR Airports Ltd.
+NSE: Automobile and Auto Components,GABRIEL,1491.2,0.5,1.76,Long,39,1345.42,9.78,-9.14,1.1,-5.5,7.3,Gabriel India Ltd.
+NSE: Capital Goods,GALLANTT,533.2,-14.85,-7.14,Long,26,513.33,3.73,-42.28,0.46,-10.9,3.8,Gallantt Ispat Ltd.
+NSE: Capital Goods,GRSE,2071.6,-0.68,-22.39,Long,11,1958.88,5.44,-32.85,1.55,-10.9,-11.5,Garden Reach Shipbuilders & Engineers Ltd.
+NSE: Financial Services,GICRE,338.65,3.5,-2.27,Long,9,312.28,7.79,-14.07,1.1,-1.9,-0.4,General Insurance Corporation of India
+NSE: Fast Moving Consumer Goods,GILLETTE,7252.0,-0.17,-2.75,Long,10,6953.16,4.12,-16.93,1.0,-1.7,-1.0,Gillette India Ltd.
+NSE: Healthcare,GLAND,3230.5,6.98,13.01,Long,147,3077.33,4.74,-4.59,0.97,1.4,11.6,Gland Pharma Ltd.
+NSE: Healthcare,GLAXO,2638.2,5.72,-8.31,Long,7,2450.36,7.12,-15.07,1.34,1.4,-9.7,Glaxosmithkline Pharmaceuticals Ltd.
+NSE: Healthcare,GLENMARK,2646.1,19.72,14.91,Long,12,2416.54,8.68,-1.16,1.34,1.4,13.5,Glenmark Pharmaceuticals Ltd.
+NSE: Healthcare,MEDANTA,1436.6,16.03,-0.42,Long,11,1315.92,8.4,-4.79,1.19,1.4,-1.8,Global Health Ltd.
+NSE: Capital Goods,GPIL,221.16,6.73,-13.35,Long,6,197.26,10.81,-27.39,1.1,-10.9,-2.4,Godawari Power & Ispat Ltd.
+NSE: Fast Moving Consumer Goods,GODFRYPHLP,1758.4,-2.18,-15.9,Short,52,1817.65,-3.37,-39.62,1.45,-1.7,-14.2,Godfrey Phillips India Ltd.
+NSE: Fast Moving Consumer Goods,GODREJCP,896.45,6.48,-3.13,Long,6,826.78,7.77,-27.01,1.22,-1.7,-1.4,Godrej Consumer Products Ltd.
+NSE: Realty,GODREJPROP,1877.6,18.16,-6.0,Long,10,1701.72,9.37,-14.48,1.22,-1.8,-4.2,Godrej Properties Ltd.
+NSE: Healthcare,GRANULES,797.5,-1.06,-6.31,Short,28,879.42,-10.27,-12.3,1.22,1.4,-7.7,Granules India Ltd.
+NSE: Capital Goods,GRAPHITE,782.5,4.96,6.15,Long,5,712.06,9.0,-8.07,0.38,-10.9,17.0,Graphite India Ltd.
+NSE: Construction Materials,GRASIM,3062.0,6.36,-6.61,Long,12,2996.39,2.14,-9.42,1.1,-4.8,-1.8,Grasim Industries Ltd.
+NSE: Metals & Mining,GRAVITA,1478.8,2.72,-18.04,Long,10,1362.55,7.86,-20.72,0.89,-8.9,-9.1,Gravita India Ltd.
+NSE: Services,GESHIP,1530.6,1.75,18.66,Short,8,1592.45,-4.04,-9.13,0.98,1.6,17.1,Great Eastern Shipping Co. Ltd.
+NSE: Chemicals,FLUOROCHEM,4820.4,8.22,3.18,Long,9,4310.23,10.58,-0.08,1.06,-9.4,12.6,Gujarat Fluorochemicals Ltd.
+NSE: Metals & Mining,GMDCLTD,457.2,-0.34,-18.51,Long,10,434.54,4.96,-37.73,1.56,-8.9,-9.6,Gujarat Mineral Development Corporation Ltd.
+NSE: Capital Goods,HBLENGINE,788.05,-3.06,17.77,Long,22,753.66,4.36,-24.02,0.5,-10.9,28.7,HBL Engineering Ltd.
+NSE: Information Technology,HCLTECH,1344.7,-2.55,4.52,Long,25,1326.92,1.32,-19.24,0.86,-0.5,5.0,HCL Technologies Ltd.
+NSE: Financial Services,HDBFS,559.45,10.33,-19.55,Long,7,528.32,5.56,-27.12,0.9,-1.9,-17.7,HDB Financial Services Ltd.
+NSE: Financial Services,HDFCAMC,2649.1,12.77,4.91,Long,11,2516.39,5.01,-5.47,1.1,-1.9,6.8,HDFC Asset Management Company Ltd.
+NSE: Financial Services,HDFCBANK,808.15,13.5,11.78,Long,11,765.3,5.3,-18.62,1.15,-1.9,13.7,HDFC Bank Ltd.
+NSE: Financial Services,HDFCLIFE,575.5,5.5,6.92,Long,8,552.7,3.96,-26.66,0.74,-1.9,8.8,HDFC Life Insurance Company Ltd.
+NSE: Capital Goods,HEGAM,267.59,22.14,-63.8,Long,14,249.7,6.69,-63.8,1.52,-10.9,-52.9,HEG Advanced Materials Ltd.
+NSE: Telecommunication,HFCL,197.5,-26.53,-14.06,Short,13,224.69,-13.77,-27.36,0.98,-3.2,-10.9,HFCL Ltd.
+NSE: Consumer Durables,HAVELLS,1140.0,3.38,-12.29,Long,8,1093.44,4.08,-23.47,1.26,-6.7,-5.6,Havells India Ltd.
+NSE: Automobile and Auto Components,HEROMOTOCO,5253.0,0.44,-8.57,Long,15,5057.15,3.73,-14.43,1.13,-5.5,-3.1,Hero MotoCorp Ltd.
+NSE: Information Technology,HEXT,487.0,-13.82,-10.46,Short,13,535.73,-10.01,-36.37,0.49,-0.5,-10.0,Hexaware Technologies Ltd.
+NSE: Chemicals,HSCL,556.25,-8.19,-28.85,Short,61,584.03,-4.99,-30.55,0.92,-9.4,-19.5,Himadri Speciality Chemical Ltd.
+NSE: Metals & Mining,HINDALCO,900.0,-0.05,-13.59,Long,10,883.61,1.82,-21.31,1.37,-8.9,-4.7,Hindalco Industries Ltd.
+NSE: Capital Goods,HAL,4675.0,-5.73,-8.32,Short,1,5098.63,-9.06,-8.32,1.05,-10.9,2.6,Hindustan Aeronautics Ltd.
+NSE: Metals & Mining,HINDCOPPER,419.2,-4.96,-25.7,Short,44,446.79,-6.58,-44.55,0.9,-8.9,-16.8,Hindustan Copper Ltd.
+NSE: Oil Gas & Consumable Fuels,HINDPETRO,386.45,10.89,5.59,Long,10,358.66,7.19,-18.57,1.13,1.2,4.4,Hindustan Petroleum Corporation Ltd.
+NSE: Fast Moving Consumer Goods,HINDUNILVR,1993.0,8.56,-1.14,Long,11,1896.01,4.87,-17.98,1.11,-1.7,0.6,Hindustan Unilever Ltd.
+NSE: Metals & Mining,HINDZINC,527.0,-2.12,-5.56,Short,1,584.05,-10.83,-26.21,1.04,-8.9,3.3,Hindustan Zinc Ltd.
+NSE: Capital Goods,POWERINDIA,30840.0,7.34,-12.55,Long,4,26946.22,12.63,-19.76,1.37,-10.9,-1.7,Hitachi Energy India Ltd.
+NSE: Financial Services,HOMEFIRST,1069.6,1.36,-9.13,Short,36,1113.86,-4.14,-16.44,0.88,-1.9,-7.2,Home First Finance Company India Ltd.
+NSE: Fast Moving Consumer Goods,HONASA,524.5,18.83,11.2,Long,30,469.87,10.42,0.0,0.81,-1.7,12.9,Honasa Consumer Ltd.
+NSE: Capital Goods,HONAUT,29835.0,-5.82,-18.04,Short,64,31931.81,-7.03,-25.61,1.19,-10.9,-7.1,Honeywell Automation India Ltd.
+NSE: Financial Services,HUDCO,161.64,4.24,-13.33,Long,8,153.06,5.31,-31.07,1.34,-1.9,-11.4,Housing & Urban Development Corporation Ltd.
+NSE: Automobile and Auto Components,HYUNDAI,2097.5,7.29,-4.05,Long,11,1957.74,6.66,-12.54,1.2,-5.5,1.5,Hyundai Motor India Ltd.
+NSE: Financial Services,ICICIBANK,1601.3,15.95,13.41,Long,29,1510.43,5.67,0.0,1.26,-1.9,15.3,ICICI Bank Ltd.
+NSE: Financial Services,ICICILIFE,444.35,1.45,-10.81,Long,6,421.49,5.14,-35.23,1.06,-1.9,-8.9,ICICI Life Insurance Ltd.
+NSE: Financial Services,ICICIGI,1646.5,0.22,1.83,Long,5,1580.49,4.01,-18.75,0.61,-1.9,3.7,ICICI Lombard General Insurance Company Ltd.
+NSE: Financial Services,ICICIAMC,2949.1,7.42,-4.01,Long,9,2861.6,2.97,-15.42,0.79,-1.9,-2.1,ICICI Prudential Asset Management Company Ltd.
+NSE: Financial Services,IDBI,78.82,-4.16,-2.82,Short,18,85.46,-8.43,-32.06,0.36,-1.9,-0.9,IDBI Bank Ltd.
+NSE: Financial Services,IDFCFIRSTB,82.45,8.02,-2.73,Long,6,76.87,6.77,-6.2,1.06,-1.9,-0.8,IDFC First Bank Ltd.
+NSE: Financial Services,IFCI,59.73,-7.9,-26.59,Short,46,65.14,-9.05,-41.73,0.32,-1.9,-24.7,IFCI Ltd.
+NSE: Financial Services,IIFL,661.95,8.07,6.36,Long,9,570.03,13.89,-4.95,1.61,-1.9,8.3,IIFL Finance Ltd.
+NSE: Capital Goods,INOXINDIA,2123.2,6.19,8.43,Long,1,1736.67,18.21,-7.52,1.2,-10.9,19.3,INOX India Ltd.
+NSE: Construction,IRB,17.63,1.77,-7.11,Long,7,16.93,3.98,-22.23,1.0,-7.2,0.1,IRB Infrastructure Developers Ltd.
+NSE: Construction,IRCON,105.8,1.59,-13.86,Long,7,100.18,5.31,-40.11,0.66,-7.2,-6.7,IRCON International Ltd.
+NSE: Consumer Services,ITCHOTELS,177.16,11.77,7.74,Long,37,163.05,7.96,-15.73,1.75,-0.7,8.4,ITC Hotels Ltd.
+NSE: Fast Moving Consumer Goods,ITC,296.6,13.73,9.85,Long,11,274.31,7.52,-23.79,1.13,-1.7,11.5,ITC Ltd.
+NSE: Telecommunication,ITI,249.66,4.89,-10.95,Long,12,227.71,8.79,-23.22,2.32,-3.2,-7.7,ITI Ltd.
+NSE: Construction Materials,INDIACEM,310.05,5.33,-17.21,Long,20,306.22,1.24,-35.21,1.69,-4.8,-12.4,India Cements Ltd.
+NSE: Consumer Services,INDIAMART,1549.2,-2.92,-11.63,Short,99,1648.67,-6.42,-35.65,1.01,-0.7,-10.9,Indiamart Intermesh Ltd.
+NSE: Financial Services,INDIANB,937.0,9.35,7.09,Long,21,873.32,6.8,-3.49,1.19,-1.9,9.0,Indian Bank
+NSE: Financial Services,IEX,115.0,9.73,-7.56,Long,10,106.86,7.08,-23.62,1.26,-1.9,-5.7,Indian Energy Exchange Ltd.
+NSE: Consumer Services,INDHOTEL,875.05,15.14,21.7,Long,149,830.93,5.04,-2.94,1.4,-0.7,22.4,Indian Hotels Co. Ltd.
+NSE: Oil Gas & Consumable Fuels,IOC,143.82,10.42,4.37,Long,12,137.88,4.13,-21.62,1.29,1.2,3.2,Indian Oil Corporation Ltd.
+NSE: Financial Services,IOB,30.93,0.72,-7.03,Short,62,31.7,-2.5,-23.16,1.53,-1.9,-5.1,Indian Overseas Bank
+NSE: Consumer Services,IRCTC,444.35,-2.47,-9.78,Short,18,472.45,-6.32,-36.82,1.22,-0.7,-9.1,Indian Railway Catering And Tourism Corporation Ltd.
+NSE: Financial Services,IRFC,81.1,4.96,-4.39,Long,22,78.26,3.5,-37.74,1.24,-1.9,-2.5,Indian Railway Finance Corporation Ltd.
+NSE: Financial Services,IREDA,119.8,12.45,4.62,Long,9,108.88,9.12,-19.56,1.71,-1.9,6.5,Indian Renewable Energy Development Agency Ltd.
+NSE: Oil Gas & Consumable Fuels,IGL,149.14,4.63,0.87,Long,6,134.92,9.53,-28.57,1.06,1.2,-0.3,Indraprastha Gas Ltd.
+NSE: Telecommunication,INDUSTOWER,391.6,2.41,5.16,Long,6,364.63,6.89,-14.95,1.04,-3.2,8.4,Indus Towers Ltd.
+NSE: Financial Services,INDUSINDBK,911.85,5.64,-10.16,Long,9,843.19,7.53,-14.72,1.17,-1.9,-8.3,IndusInd Bank Ltd.
+NSE: Consumer Services,NAUKRI,1155.0,-5.09,-14.54,Short,45,1263.5,-9.39,-16.63,1.0,-0.7,-13.8,Info Edge (India) Ltd.
+NSE: Information Technology,INFY,1108.8,0.31,1.72,Long,24,1057.64,4.61,-31.43,1.04,-0.5,2.2,Infosys Ltd.
+NSE: Capital Goods,INOXWIND,57.5,-11.39,-23.28,Short,1,67.69,-17.73,-61.33,1.24,-10.9,-12.4,Inox Wind Ltd.
+NSE: Information Technology,INTELLECT,529.3,-17.36,-23.95,Short,62,608.9,-15.04,-53.24,1.52,-0.5,-23.4,Intellect Design Arena Ltd.
+NSE: Services,INDIGO,5499.3,17.01,5.35,Long,12,5207.69,5.3,-7.09,1.19,1.6,3.7,InterGlobe Aviation Ltd.
+NSE: Services,IGIL,444.1,37.94,27.95,Long,19,392.53,11.61,-1.44,1.95,1.6,26.4,International Gemological Institute Ltd.
+NSE: Information Technology,IKS,1610.1,-4.49,-13.51,Short,27,1759.22,-9.26,-16.91,0.69,-0.5,-13.0,Inventurus Knowledge Solutions Ltd.
+NSE: Healthcare,IPCALAB,1854.1,2.18,-1.49,Short,22,2002.97,-8.03,-7.74,1.09,1.4,-2.9,Ipca Laboratories Ltd.
+NSE: Construction Materials,JKCEMENT,5151.8,5.6,-4.16,Long,37,4778.03,7.26,-13.49,0.96,-4.8,0.6,J.K. Cement Ltd.
+NSE: Automobile and Auto Components,JBMA,482.95,-8.74,-21.98,Short,46,526.54,-9.03,-33.58,1.26,-5.5,-16.5,JBM Auto Ltd.
+NSE: Automobile and Auto Components,JKTYRE,358.25,7.87,-6.5,Long,10,331.31,7.52,-40.18,1.27,-5.5,-1.0,JK Tyre & Industries Ltd.
+NSE: Financial Services,JMFINANCIL,111.59,-3.4,-9.69,Short,43,117.82,-5.58,-25.61,1.04,-1.9,-7.8,JM Financial Ltd.
+NSE: Construction Materials,JSWCEMENT,123.21,6.47,-3.22,Long,12,116.54,5.41,-13.41,1.47,-4.8,1.6,JSW Cement Ltd.
+NSE: Power,JSWENERGY,511.85,6.15,-6.61,Long,14,477.9,6.63,-14.69,1.14,-7.8,1.2,JSW Energy Ltd.
+NSE: Services,JSWINFRA,338.75,2.98,3.07,Short,21,346.32,-2.24,-7.85,0.57,1.6,1.5,JSW Infrastructure Ltd.
+NSE: Metals & Mining,JSWSTEEL,1315.9,6.01,3.81,Long,17,1262.59,4.05,-3.04,1.18,-8.9,12.7,JSW Steel Ltd.
+NSE: Metals & Mining,JAINREC,290.1,1.56,-2.06,Short,127,300.77,-3.68,-49.24,0.64,-8.9,6.8,Jain Resource Recycling Ltd.
+NSE: Power,JPPOWER,13.31,-10.73,-23.15,Short,56,14.54,-9.27,-41.8,0.87,-7.8,-15.3,Jaiprakash Power Ventures Ltd.
+NSE: Financial Services,J&KBANK,140.83,1.06,-6.26,Long,5,126.52,10.16,-26.9,1.48,-1.9,-4.4,Jammu & Kashmir Bank Ltd.
+NSE: Capital Goods,JINDALSAW,252.23,-14.67,-6.11,Short,19,273.39,-8.39,-20.56,0.86,-10.9,4.8,Jindal Saw Ltd.
+NSE: Metals & Mining,JSL,731.45,-0.47,0.29,Short,28,745.17,-1.88,-15.04,0.64,-8.9,9.2,Jindal Stainless Ltd.
+NSE: Metals & Mining,JINDALSTEL,1103.0,5.87,0.32,Long,10,1077.16,2.34,-14.26,1.13,-8.9,9.2,Jindal Steel Ltd.
+NSE: Financial Services,JIOFIN,224.5,4.91,-8.67,Long,10,214.33,4.53,-28.54,1.06,-1.9,-6.8,Jio Financial Services Ltd.
+NSE: Consumer Services,JUBLFOOD,420.95,1.8,-15.9,Long,9,412.47,2.01,-31.39,1.34,-0.7,-15.2,Jubilant Foodworks Ltd.
+NSE: Chemicals,JUBLINGREA,586.85,-5.91,-19.24,Short,55,638.21,-8.75,-22.91,1.44,-9.4,-9.8,Jubilant Ingrevia Ltd.
+NSE: Capital Goods,JWL,198.78,1.04,-20.71,Long,9,184.41,7.23,-42.81,1.38,-10.9,-9.8,Jupiter Wagons Ltd.
+NSE: Capital Goods,JYOTICNC,1050.0,7.6,13.0,Long,10,945.15,9.99,-5.73,0.98,-10.9,23.9,Jyoti CNC Automation Ltd.
+NSE: Textiles,KPRMILL,1207.5,12.9,7.48,Long,12,1098.13,9.06,-0.79,1.51,3.1,4.4,K.P.R. Mill Ltd.
+NSE: Capital Goods,KEI,3725.0,-16.14,-35.66,Short,53,4206.43,-12.92,-36.57,1.27,-10.9,-24.8,KEI Industries Ltd.
+NSE: Information Technology,KPITTECH,521.75,-2.83,-12.55,Long,22,492.82,5.54,-58.47,0.91,-0.5,-12.0,KPIT Technologies Ltd.
+NSE: Capital Goods,KSB,652.75,-13.53,-17.84,Short,23,715.46,-9.61,-34.41,0.71,-10.9,-6.9,KSB Ltd.
+NSE: Consumer Durables,KAJARIACER,1180.2,-1.28,-2.19,Short,18,1207.05,-2.28,-4.92,0.98,-6.7,4.5,Kajaria Ceramics Ltd.
+NSE: Construction,KPIL,1318.1,-2.12,-6.08,Short,20,1428.53,-8.38,-9.62,0.91,-7.2,1.1,Kalpataru Projects International Ltd.
+NSE: Consumer Durables,KALYANKJIL,650.0,17.9,8.49,Long,9,614.55,5.45,-8.57,1.49,-6.7,15.2,Kalyan Jewellers India Ltd.
+NSE: Financial Services,KARURVYSYA,387.0,4.58,15.9,Long,25,354.1,8.5,-1.65,0.95,-1.9,17.8,Karur Vysya Bank Ltd.
+NSE: Capital Goods,KAYNES,2882.0,-11.32,-20.91,Short,53,3361.31,-16.63,-54.8,1.3,-10.9,-10.0,Kaynes Technology India Ltd.
+NSE: Construction,KEC,313.7,-8.69,-26.81,Short,93,355.03,-13.17,-59.91,1.33,-7.2,-19.6,Kec International Ltd.
+NSE: Financial Services,KFINTECH,932.75,6.9,-2.6,Long,10,859.63,7.84,-14.2,1.47,-1.9,-0.7,Kfin Technologies Ltd.
+NSE: Capital Goods,KIRLOSBROS,1588.0,-7.35,-16.86,Long,12,1499.45,5.58,-23.12,1.48,-10.9,-6.0,Kirloskar Brothers Ltd.
+NSE: Capital Goods,KIRLOSENG,1661.4,-15.8,-21.84,Short,21,1866.04,-12.32,-35.06,1.03,-10.9,-10.9,Kirloskar Oil Eng Ltd.
+NSE: Financial Services,KOTAKBANK,494.85,11.88,27.65,Long,30,467.36,5.55,-0.48,1.04,-1.9,29.6,Kotak Mahindra Bank Ltd.
+NSE: Healthcare,KIMS,759.0,11.86,-5.77,Long,11,699.47,7.84,-10.77,0.88,1.4,-7.2,Krishna Institute of Medical Sciences Ltd.
+NSE: Financial Services,LTF,273.9,8.26,-15.75,Long,10,252.56,7.79,-18.38,0.76,-1.9,-13.8,L&T Finance Ltd.
+NSE: Information Technology,LTTS,4095.7,13.98,17.27,Long,25,3853.83,5.91,-11.36,0.82,-0.5,17.8,L&T Technology Services Ltd.
+NSE: Consumer Durables,LGEINDIA,1679.7,-1.5,1.84,Long,9,1621.26,3.48,-6.36,1.0,-6.7,8.5,LG Electronics India Ltd.
+NSE: Financial Services,LICHSGFIN,610.0,19.26,24.75,Long,7,559.59,8.26,-2.01,0.86,-1.9,26.6,LIC Housing Finance Ltd.
+NSE: Fast Moving Consumer Goods,LTFOODS,419.25,3.56,-1.42,Long,8,394.75,5.84,-8.44,1.88,-1.7,0.3,LT Foods Ltd.
+NSE: Information Technology,LTM,4075.0,-3.89,-10.15,Long,22,3969.87,2.58,-35.17,0.79,-0.5,-9.6,LTM Ltd.
+NSE: Construction,LT,4159.0,13.57,2.33,Long,13,3958.35,4.82,-4.95,1.19,-7.2,9.5,Larsen & Toubro Ltd.
+NSE: Healthcare,LAURUSLABS,2322.5,12.3,28.09,Long,153,2214.12,4.67,-5.36,1.41,1.4,26.7,Laurus Labs Ltd.
+NSE: Consumer Services,LEMONTREE,123.59,10.67,13.36,Long,30,112.5,8.98,-25.05,1.19,-0.7,14.1,Lemon Tree Hotels Ltd.
+NSE: Consumer Services,LENSKART,732.1,14.4,16.5,Long,15,668.02,8.75,-0.94,0.9,-0.7,17.2,Lenskart Solutions Ltd.
+NSE: Financial Services,LICI,400.0,1.69,-2.44,Long,10,381.84,4.54,-10.57,1.18,-1.9,-0.5,Life Insurance Corporation of India
+NSE: Chemicals,LINDEINDIA,6865.0,14.35,2.07,Long,10,6167.9,10.15,-12.37,1.47,-9.4,11.5,Linde India Ltd.
+NSE: Metals & Mining,LLOYDSME,1736.6,-3.74,-10.42,Short,67,1870.95,-7.74,-17.35,0.82,-8.9,-1.5,Lloyds Metals And Energy Ltd.
+NSE: Realty,LODHA,1197.1,16.22,-1.16,Long,10,1083.69,9.47,-8.74,0.89,-1.8,0.6,Lodha Developers Ltd.
+NSE: Healthcare,LUPIN,1971.9,1.69,-11.65,Short,69,2034.59,-3.18,-21.59,1.03,1.4,-13.0,Lupin Ltd.
+NSE: Services,MMTC,52.23,-4.85,-17.8,Short,43,56.94,-9.02,-31.3,0.86,1.6,-19.4,MMTC Ltd.
+NSE: Automobile and Auto Components,MRF,128845.0,5.7,-3.49,Long,9,122321.06,5.06,-18.47,1.24,-5.5,2.0,MRF Ltd.
+NSE: Capital Goods,MTARTECH,5885.0,-18.01,-17.48,Short,18,6545.76,-11.23,-29.73,1.44,-10.9,-6.6,MTAR Technologies Ltd.
+NSE: Oil Gas & Consumable Fuels,MGL,1115.5,7.07,0.37,Long,9,1067.53,4.3,-8.99,1.36,1.2,-0.8,Mahanagar Gas Ltd.
+NSE: Financial Services,M&MFIN,287.0,-5.87,-25.69,Short,44,298.66,-4.06,-30.39,1.56,-1.9,-23.8,Mahindra & Mahindra Financial Services Ltd.
+NSE: Automobile and Auto Components,M&M,3359.1,15.55,-1.82,Long,10,3131.58,6.77,-10.73,1.16,-5.5,3.7,Mahindra & Mahindra Ltd.
+NSE: Financial Services,MANAPPURAM,283.0,-11.14,-18.07,Short,1,322.66,-14.01,-23.42,1.27,-1.9,-16.2,Manappuram Finance Ltd.
+NSE: Oil Gas & Consumable Fuels,MRPL,175.97,3.08,0.91,Long,108,158.17,10.11,-13.4,1.04,1.2,-0.3,Mangalore Refinery & Petrochemicals Ltd.
+NSE: Healthcare,MANKIND,2625.0,16.5,10.29,Long,16,2437.22,7.15,-1.62,1.18,1.4,8.9,Mankind Pharma Ltd.
+NSE: Fast Moving Consumer Goods,MARICO,906.05,16.46,7.66,Long,11,854.76,5.66,-2.05,1.33,-1.7,9.4,Marico Ltd.
+NSE: Automobile and Auto Components,MARUTI,12632.0,10.08,-7.74,Long,10,12204.77,3.38,-26.22,1.22,-5.5,-2.2,Maruti Suzuki India Ltd.
+NSE: Financial Services,MFSL,1420.8,10.91,-10.33,Long,5,1300.04,8.5,-24.02,0.9,-1.9,-8.4,Max Financial Services Ltd.
+NSE: Healthcare,MAXHEALTH,1022.85,23.23,0.83,Long,11,937.75,8.32,-13.24,1.2,1.4,-0.6,Max Healthcare Institute Ltd.
+NSE: Capital Goods,MAZDOCK,1822.4,-10.93,-29.22,Short,47,1962.55,-7.69,-35.09,1.39,-10.9,-18.3,Mazagoan Dock Shipbuilders Ltd.
+NSE: Consumer Services,MEESHO,253.55,10.44,31.41,Long,99,229.3,9.56,-1.37,0.67,-0.7,32.1,Meesho Ltd.
+NSE: Automobile and Auto Components,MINDACORP,714.2,12.7,-4.17,Long,11,640.97,10.25,-4.17,1.45,-5.5,1.3,Minda Corporation Ltd.
+NSE: Automobile and Auto Components,MSUMI,39.52,11.7,-1.98,Long,14,36.76,6.98,-22.97,1.33,-5.5,3.5,Motherson Sumi Wiring India Ltd.
+NSE: Financial Services,MOTILALOFS,1228.95,20.37,31.02,Long,9,1086.11,11.62,-0.91,1.38,-1.9,32.9,Motilal Oswal Financial Services Ltd.
+NSE: Information Technology,MPHASIS,2397.0,-4.12,-1.44,Long,25,2319.96,3.21,-16.67,1.18,-0.5,-0.9,MphasiS Ltd.
+NSE: Financial Services,MCX,3619.0,13.64,19.34,Long,11,3356.63,7.25,-2.97,1.16,-1.9,21.2,Multi Commodity Exchange of India Ltd.
+NSE: Financial Services,MUTHOOTFIN,2640.0,2.88,-8.78,Long,10,2615.5,0.93,-34.93,1.3,-1.9,-6.9,Muthoot Finance Ltd.
+NSE: Healthcare,NATCOPHARM,819.35,2.47,-8.5,Short,62,834.67,-1.87,-31.84,1.39,1.4,-9.9,NATCO Pharma Ltd.
+NSE: Construction,NBCC,77.32,5.24,-11.4,Long,12,72.87,5.75,-36.25,1.43,-7.2,-4.2,NBCC (India) Ltd.
+NSE: Construction,NCC,133.11,4.15,-5.18,Long,7,122.15,8.23,-26.63,0.74,-7.2,2.0,NCC Ltd.
+NSE: Power,NHPC,74.46,5.32,-2.96,Short,2,79.63,-6.95,-12.55,1.25,-7.8,4.8,NHPC Ltd.
+NSE: Power,NLCINDIA,226.89,-6.58,-17.41,Short,111,252.1,-11.11,-38.4,1.25,-7.8,-9.6,NLC India Ltd.
+NSE: Metals & Mining,NMDC,68.24,-3.21,-17.84,Long,6,66.95,1.9,-27.98,1.13,-8.9,-8.9,NMDC Ltd.
+NSE: Metals & Mining,NSLNISP,38.78,-3.58,-4.22,Short,43,41.89,-8.02,-26.2,0.89,-8.9,4.7,NMDC Steel Ltd.
+NSE: Power,NTPCGREEN,82.38,-6.04,-10.62,Short,29,87.59,-6.33,-30.69,0.88,-7.8,-2.8,NTPC Green Energy Ltd.
+NSE: Power,NTPC,320.4,4.68,-3.01,Long,12,305.3,4.71,-20.29,1.07,-7.8,4.8,NTPC Ltd.
+NSE: Healthcare,NH,1891.3,8.64,4.9,Long,12,1755.51,7.18,-9.09,0.92,1.4,3.5,Narayana Hrudayalaya Ltd.
+NSE: Metals & Mining,NATIONALUM,308.1,-1.78,-19.29,Long,7,298.0,3.28,-28.72,1.13,-8.9,-10.4,National Aluminium Co. Ltd.
+NSE: Power,NAVA,538.35,0.4,-3.68,Long,9,513.87,4.55,-25.61,1.34,-7.8,4.1,Nava Ltd.
+NSE: Chemicals,NAVINFLUOR,10278.0,26.19,24.62,Long,15,9024.77,12.19,0.0,1.52,-9.4,34.0,Navin Fluorine International Ltd.
+NSE: Fast Moving Consumer Goods,NESTLEIND,1281.6,3.13,-12.37,Long,8,1195.92,6.69,-16.78,0.99,-1.7,-10.7,Nestle India Ltd.
+NSE: Information Technology,NETWEB,4118.2,-12.38,-23.09,Short,18,4405.66,-6.98,-26.47,1.12,-0.5,-22.6,Netweb Technologies India Ltd.
+NSE: Healthcare,NEULANDLAB,21455.0,11.63,-8.19,Long,5,19044.09,11.24,-10.59,1.15,1.4,-9.6,Neuland Laboratories Ltd.
+NSE: Financial Services,NAM-INDIA,1052.6,2.4,-9.17,Long,9,986.3,6.3,-15.0,1.38,-1.9,-7.3,Nippon Life India Asset Management Ltd.
+NSE: Financial Services,NUVAMA,1871.2,11.13,7.12,Long,31,1663.43,11.1,-5.5,0.79,-1.9,9.0,Nuvama Wealth Management Ltd.
+NSE: Construction Materials,NUVOCO,349.95,2.49,7.2,Long,9,316.9,9.44,-7.24,0.81,-4.8,12.0,Nuvoco Vistas Corporation Ltd.
+NSE: Realty,OBEROIRLTY,1800.0,7.51,-3.0,Long,9,1660.19,7.77,-7.64,0.99,-1.8,-1.2,Oberoi Realty Ltd.
+NSE: Oil Gas & Consumable Fuels,ONGC,225.0,3.53,-2.33,Long,12,213.07,5.3,-22.39,1.12,1.2,-3.5,Oil & Natural Gas Corporation Ltd.
+NSE: Oil Gas & Consumable Fuels,OIL,435.5,-3.01,-9.18,Short,39,466.16,-7.04,-15.8,1.1,1.2,-10.4,Oil India Ltd.
+NSE: Automobile and Auto Components,OLAELEC,32.58,-5.54,-15.62,Long,16,30.12,7.55,-31.18,1.04,-5.5,-10.1,Ola Electric Mobility Ltd.
+NSE: Automobile and Auto Components,OLECTRA,989.55,-5.23,-25.23,Long,7,952.21,3.77,-35.62,1.11,-5.5,-19.7,Olectra Greentech Ltd.
+NSE: Financial Services,PAYTM,1890.0,12.11,22.23,Long,5,1731.47,8.39,-2.57,0.96,-1.9,24.1,One 97 Communications Ltd.
+NSE: Healthcare,ONESOURCE,1586.2,16.07,2.85,Long,16,1453.06,8.39,-15.06,1.59,1.4,1.5,Onesource Specialty Pharma Ltd.
+NSE: Information Technology,OFSS,9694.5,-5.09,-16.59,Short,40,10467.05,-7.97,-22.69,0.87,-0.5,-16.1,Oracle Financial Services Software Ltd.
+NSE: Financial Services,POLICYBZR,1035.2,0.02,-40.74,Long,4,935.42,9.64,-47.11,0.65,-1.9,-38.8,PB Fintech Ltd.
+NSE: Chemicals,PCBL,271.6,-10.29,-16.83,Short,27,297.21,-9.43,-24.69,0.64,-9.4,-7.4,PCBL Chemical Ltd.
+NSE: Consumer Durables,PGEL,539.2,6.14,-9.64,Long,15,514.68,4.55,-14.46,1.42,-6.7,-2.9,PG Electroplast Ltd.
+NSE: Chemicals,PIIND,1624.0,-24.94,-35.43,Short,67,1852.07,-14.04,-54.3,1.81,-9.4,-26.0,PI Industries Ltd.
+NSE: Financial Services,PNBHOUSING,1125.3,-1.97,-1.79,Short,18,1182.78,-5.11,-8.12,0.9,-1.9,0.1,PNB Housing Finance Ltd.
+NSE: Capital Goods,PTCIL,23725.0,-5.27,19.88,Long,135,22967.85,3.19,-7.74,0.74,-10.9,30.8,PTC Industries Ltd.
+NSE: Media Entertainment & Publication,PVRINOX,1714.4,22.27,43.09,Long,26,1530.66,10.72,0.0,1.07,10.2,32.9,PVR INOX Ltd.
+NSE: Textiles,PAGEIND,30810.0,-13.45,-14.54,Short,5,34102.46,-10.69,-28.62,1.46,3.1,-17.6,Page Industries Ltd.
+NSE: Chemicals,PARADEEP,138.98,-3.66,-5.05,Short,26,147.39,-6.05,-15.65,1.26,-9.4,4.4,Paradeep Phosphates Ltd.
+NSE: Fast Moving Consumer Goods,PATANJALI,401.0,9.92,14.78,Long,14,388.12,3.21,-31.38,1.03,-1.7,16.5,Patanjali Foods Ltd.
+NSE: Information Technology,PERSISTENT,5857.0,2.93,7.62,Long,27,5624.21,3.97,-10.13,0.96,-0.5,8.1,Persistent Systems Ltd.
+NSE: Oil Gas & Consumable Fuels,PETRONET,325.5,13.35,16.28,Long,141,306.96,5.7,-2.84,1.33,1.2,15.1,Petronet LNG Ltd.
+NSE: Realty,PHOENIXLTD,2204.6,17.02,13.79,Long,14,2045.01,7.24,-3.81,1.0,-1.8,15.6,Phoenix Mills Ltd.
+NSE: Consumer Services,PWL,128.12,-1.46,4.97,Short,18,139.0,-8.49,-17.47,0.97,-0.7,5.7,Physicswallah Ltd.
+NSE: Chemicals,PIDILITIND,1530.2,3.21,-8.59,Long,11,1462.86,4.4,-10.07,1.22,-9.4,0.8,Pidilite Industries Ltd.
+NSE: Financial Services,PINELABS,169.35,3.39,5.63,Long,5,153.67,9.26,-32.5,0.52,-1.9,7.5,Pine Labs Ltd.
+NSE: Financial Services,PIRAMALFIN,2060.9,5.76,0.02,Long,9,1865.7,9.47,-10.8,0.94,-1.9,1.9,Piramal Finance Ltd.
+NSE: Healthcare,PPLPHARMA,238.95,22.89,13.5,Long,15,220.33,7.79,-3.01,1.76,1.4,12.1,Piramal Pharma Ltd.
+NSE: Healthcare,POLYMED,1654.5,6.69,-7.11,Long,9,1502.4,9.19,-15.73,0.88,1.4,-8.5,Poly Medicure Ltd.
+NSE: Capital Goods,POLYCAB,7307.5,-8.94,-20.04,Short,93,8252.95,-12.94,-27.53,0.9,-10.9,-9.1,Polycab India Ltd.
+NSE: Financial Services,POONAWALLA,501.35,12.49,0.69,Long,13,444.13,11.41,-0.27,1.21,-1.9,2.6,Poonawalla Fincorp Ltd.
+NSE: Financial Services,PFC,323.55,-1.45,-11.57,Long,6,313.22,3.19,-30.57,0.89,-1.9,-9.7,Power Finance Corporation Ltd.
+NSE: Power,POWERGRID,259.1,4.7,-2.2,Long,13,245.2,5.37,-17.94,1.01,-7.8,5.6,Power Grid Corporation of India Ltd.
+NSE: Capital Goods,PREMIERENE,832.5,-7.34,-17.91,Short,76,915.93,-10.02,-25.44,0.94,-10.9,-7.0,Premier Energies Ltd.
+NSE: Realty,PRESTIGE,1657.4,12.37,4.24,Long,11,1513.02,8.71,-5.45,0.93,-1.8,6.0,Prestige Estates Projects Ltd.
+NSE: Media Entertainment & Publication,PFOCUS,275.75,-4.37,-3.67,Short,32,318.16,-15.38,-22.86,1.02,10.2,-13.9,Prime Focus Ltd.
+NSE: Chemicals,PRIVISCL,3438.3,4.89,-0.32,Short,21,3560.99,-3.57,-7.93,1.22,-9.4,9.1,Privi Speciality Chemicals Ltd.
+NSE: Financial Services,PNB,149.57,22.7,28.39,Long,21,137.92,7.79,-0.29,1.48,-1.9,30.3,Punjab National Bank
+NSE: Capital Goods,RRKABEL,1822.0,-23.44,-34.36,Short,22,2112.3,-15.93,-37.57,1.28,-10.9,-23.5,R R Kabel Ltd.
+NSE: Financial Services,RBLBANK,387.5,3.13,1.17,Long,6,357.12,7.84,-9.46,0.81,-1.9,3.1,RBL Bank Ltd.
+NSE: Financial Services,RECLTD,290.65,-2.72,-13.11,Long,6,284.98,1.95,-22.05,0.78,-1.9,-11.2,REC Ltd.
+NSE: Capital Goods,RHIM,345.35,-4.44,-8.51,Short,19,375.77,-8.81,-29.35,0.63,-10.9,2.4,RHI MAGNESITA INDIA LTD.
+NSE: Construction,RITES,190.44,-5.69,-10.81,Short,13,208.23,-9.34,-21.75,0.3,-7.2,-3.6,RITES Ltd.
+NSE: Fast Moving Consumer Goods,RADICO,4665.0,5.17,-1.43,Long,7,4284.91,8.15,-1.43,1.41,-1.7,0.3,Radico Khaitan Ltd
+NSE: Construction,RVNL,189.0,-2.83,-16.0,Long,7,187.07,1.02,-50.98,1.35,-7.2,-8.8,Rail Vikas Nigam Ltd.
+NSE: Telecommunication,RAILTEL,242.75,-2.67,-12.03,Long,6,228.87,5.72,-35.03,1.03,-3.2,-8.8,Railtel Corporation Of India Ltd.
+NSE: Healthcare,RAINBOW,1258.0,1.78,-13.76,Long,5,1168.48,7.12,-21.31,0.88,1.4,-15.2,Rainbow Childrens Medicare Ltd.
+NSE: Automobile and Auto Components,RKFORGE,758.65,11.06,0.85,Long,14,694.29,8.48,-4.19,1.56,-5.5,6.4,Ramkrishna Forgings Ltd.
+NSE: Services,REDINGTON,338.1,-8.88,3.62,Short,20,379.03,-12.11,-18.09,0.97,1.6,2.0,Redington Ltd.
+NSE: Oil Gas & Consumable Fuels,RELIANCE,1363.0,13.39,3.1,Long,12,1281.9,5.95,-14.0,1.28,1.2,1.9,Reliance Industries Ltd.
+NSE: Power,RPOWER,17.76,-0.73,-20.89,Long,14,16.93,4.67,-57.03,1.21,-7.8,-13.1,Reliance Power Ltd.
+NSE: Healthcare,RUBICON,1658.3,11.54,-8.08,Long,13,1550.82,6.48,-10.87,0.87,1.4,-9.5,Rubicon Research Ltd.
+NSE: Financial Services,SBICARD,561.5,-1.04,-8.7,Long,9,539.27,3.96,-37.5,0.95,-1.9,-6.8,SBI Cards and Payment Services Ltd.
+NSE: Financial Services,SBILIFE,1788.0,8.51,0.56,Long,8,1683.48,5.85,-15.13,0.94,-1.9,2.5,SBI Life Insurance Company Ltd.
+NSE: Power,SJVN,54.64,6.91,-17.14,Long,13,52.08,4.69,-36.36,1.46,-7.8,-9.3,SJVN Ltd.
+NSE: Automobile and Auto Components,SHRIPISTON,4287.7,-7.21,-4.91,Long,194,4240.33,1.1,-9.72,0.69,-5.5,0.6,SPR Auto Technologies Ltd.
+NSE: Chemicals,SRF,2445.0,0.53,-7.03,Long,6,2313.3,5.39,-21.13,1.24,-9.4,2.4,SRF Ltd.
+NSE: Information Technology,SAGILITY,45.15,2.98,7.45,Short,34,46.24,-2.41,-15.67,1.96,-0.5,8.0,Sagility Ltd.
+NSE: Healthcare,SAILIFE,1788.1,28.1,24.16,Long,13,1663.58,6.96,-7.29,1.74,1.4,22.8,Sai Life Sciences Ltd.
+NSE: Financial Services,SAMMAANCAP,128.49,2.14,-14.47,Long,9,123.67,3.75,-30.27,1.16,-1.9,-12.6,Sammaan Capital Ltd.
+NSE: Automobile and Auto Components,MOTHERSON,157.24,-0.58,-7.72,Long,9,149.66,4.82,-7.87,1.29,-5.5,-2.2,Samvardhana Motherson International Ltd.
+NSE: Automobile and Auto Components,SANSERA,4500.0,8.43,12.52,Long,7,4161.84,7.51,-5.53,0.84,-5.5,18.0,Sansera Engineering Ltd.
+NSE: Metals & Mining,SARDAEN,455.85,-5.23,-12.02,Short,43,476.5,-4.53,-25.31,0.65,-8.9,-3.1,Sarda Energy and Minerals Ltd.
+NSE: Automobile and Auto Components,SCHAEFFLER,3556.8,-1.84,-12.68,Short,29,3753.62,-5.53,-18.33,1.21,-5.5,-7.2,Schaeffler India Ltd.
+NSE: Capital Goods,SCHNEIDER,998.2,-11.75,-21.67,Short,85,1138.36,-14.04,-33.5,0.88,-10.9,-10.8,Schneider Electric Infrastructure Ltd.
+NSE: Services,SCI,256.41,-5.64,-11.7,Short,19,271.98,-6.07,-24.24,1.06,1.6,-13.3,Shipping Corporation of India Ltd.
+NSE: Construction Materials,SHREECEM,24835.0,11.42,0.44,Long,17,23534.98,5.23,-10.56,0.68,-4.8,5.2,Shree Cement Ltd.
+NSE: Financial Services,SHRIRAMFIN,970.0,5.52,-11.8,Long,9,893.04,7.93,-14.32,1.23,-1.9,-9.9,Shriram Finance Ltd.
+NSE: Capital Goods,SHYAMMETL,1317.1,7.38,32.96,Long,153,1204.59,8.54,-1.14,0.84,-10.9,43.9,Shyam Metalics and Energy Ltd.
+NSE: Capital Goods,ENRIN,2965.1,4.7,-17.48,Long,5,2756.23,7.04,-23.42,1.05,-10.9,-6.6,Siemens Energy India Ltd.
+NSE: Capital Goods,SIEMENS,3520.0,-2.84,-11.04,Long,7,3315.69,5.8,-14.44,1.05,-10.9,-0.1,Siemens Ltd.
+NSE: Realty,SIGNATURE,843.05,17.29,5.26,Long,5,740.02,12.22,-26.47,1.28,-1.8,7.1,Signatureglobal (India) Ltd.
+NSE: Realty,SOBHA,1269.7,7.97,-2.95,Long,9,1134.79,10.63,-21.23,1.11,-1.8,-1.2,Sobha Ltd.
+NSE: Chemicals,SOLARINDS,18520.0,-6.48,-8.68,Short,44,20289.99,-9.56,-17.52,0.76,-9.4,0.7,Solar Industries India Ltd.
+NSE: Automobile and Auto Components,SONACOMS,889.0,11.96,7.89,Long,16,848.21,4.59,-4.0,1.22,-5.5,13.4,Sona BLW Precision Forgings Ltd.
+NSE: Financial Services,STARHEALTH,559.8,3.27,-4.13,Short,44,578.13,-3.27,-8.29,0.72,-1.9,-2.2,Star Health and Allied Insurance Company Ltd.
+NSE: Financial Services,SBIN,1135.0,16.57,7.79,Long,9,1048.6,7.61,-5.89,1.4,-1.9,9.7,State Bank of India
+NSE: Metals & Mining,SAIL,164.0,-2.94,-2.38,Short,44,179.29,-9.32,-19.37,1.03,-8.9,6.5,Steel Authority of India Ltd.
+NSE: Telecommunication,STLTECH,673.15,-24.13,4.2,Short,23,787.48,-16.98,-33.8,1.11,-3.2,7.4,Sterlite Technologies Ltd.
+NSE: Chemicals,SUMICHEM,334.25,-14.81,-40.64,Short,51,366.2,-9.56,-40.84,1.48,-9.4,-31.2,Sumitomo Chemical India Ltd.
+NSE: Healthcare,SUNPHARMA,1871.5,7.37,-0.19,Long,8,1776.25,5.09,-6.48,1.25,1.4,-1.6,Sun Pharmaceutical Industries Ltd.
+NSE: Media Entertainment & Publication,SUNTV,696.35,9.5,45.14,Long,39,589.85,15.29,0.0,0.51,10.2,34.9,Sun TV Network Ltd.
+NSE: Financial Services,SUNDARMFIN,4295.5,1.86,-7.02,Long,6,3968.23,7.62,-22.63,1.12,-1.9,-5.1,Sundaram Finance Ltd.
+NSE: Capital Goods,SUPREMEIND,3151.0,-12.65,-12.24,Short,17,3485.85,-10.63,-21.4,1.18,-10.9,-1.3,Supreme Industries Ltd.
+NSE: Capital Goods,SUZLON,36.13,-10.53,-24.38,Short,18,39.19,-8.48,-39.08,1.17,-10.9,-13.5,Suzlon Energy Ltd.
+NSE: Chemicals,SWANCORP,229.42,-10.47,-24.63,Short,31,256.81,-11.94,-51.86,0.47,-9.4,-15.2,Swan Corp Ltd.
+NSE: Consumer Services,SWIGGY,180.49,-21.18,-34.13,Short,35,206.54,-14.43,-56.67,1.45,-0.7,-33.4,Swiggy Ltd.
+NSE: Healthcare,SYNGENE,434.8,9.38,7.6,Long,25,399.3,8.17,-34.14,1.75,1.4,6.2,Syngene International Ltd.
+NSE: Capital Goods,SYRMA,1475.0,-4.69,-1.67,Short,20,1638.92,-11.11,-17.27,0.81,-10.9,9.2,Syrma SGS Technology Ltd.
+NSE: Consumer Services,TBOTEK,1578.0,-2.21,-7.62,Short,19,1676.32,-6.23,-9.58,0.62,-0.7,-6.9,TBO Tek Ltd.
+NSE: Capital Goods,TDPOWERSYS,632.3,-14.12,-20.21,Short,20,725.51,-14.74,-23.34,1.57,-10.9,-9.3,TD Power Systems Ltd.
+NSE: Automobile and Auto Components,TVSMOTOR,4369.0,7.24,0.28,Long,15,4215.67,3.51,-4.19,1.15,-5.5,5.8,TVS Motor Company Ltd.
+NSE: Financial Services,TATACAP,340.2,8.26,-6.32,Long,14,326.33,4.08,-11.11,1.35,-1.9,-4.4,Tata Capital Ltd.
+NSE: Chemicals,TATACHEM,634.6,-0.48,-2.82,Short,37,657.74,-3.65,-23.43,0.73,-9.4,6.6,Tata Chemicals Ltd.
+NSE: Telecommunication,TATACOMM,1767.3,2.84,4.59,Long,3,1650.45,6.61,-14.28,0.82,-3.2,7.8,Tata Communications Ltd.
+NSE: Information Technology,TCS,2379.5,-3.31,4.92,Long,25,2331.68,2.01,-25.35,0.82,-0.5,5.4,Tata Consultancy Services Ltd.
+NSE: Fast Moving Consumer Goods,TATACONSUM,1130.9,17.01,6.53,Long,14,1043.3,7.75,-10.27,1.2,-1.7,8.2,Tata Consumer Products Ltd.
+NSE: Information Technology,TATAELXSI,3670.0,-3.17,0.22,Long,25,3553.04,3.19,-36.17,0.57,-0.5,0.7,Tata Elxsi Ltd.
+NSE: Financial Services,TATAINVEST,595.0,-1.57,-8.07,Short,36,612.83,-3.0,-23.25,0.33,-1.9,-6.2,Tata Investment Corporation Ltd.
+NSE: Capital Goods,TMCV,443.8,5.98,-5.9,Long,7,409.17,7.8,-11.18,1.21,-10.9,5.0,Tata Motors Ltd.
+NSE: Automobile and Auto Components,TMPV,252.55,-9.15,-21.76,Short,3,283.41,-12.22,-36.49,1.09,-5.5,-16.3,Tata Motors Passenger Vehicles Ltd.
+NSE: Power,TATAPOWER,338.0,-4.05,-11.29,Long,9,337.82,0.05,-26.35,1.38,-7.8,-3.5,Tata Power Co. Ltd.
+NSE: Metals & Mining,TATASTEEL,179.0,2.85,-3.5,Long,9,173.59,3.03,-17.38,0.95,-8.9,5.4,Tata Steel Ltd.
+NSE: Information Technology,TATATECH,656.7,-6.87,-21.43,Short,46,713.79,-8.69,-25.3,0.88,-0.5,-20.9,Tata Technologies Ltd.
+NSE: Telecommunication,TTML,37.06,12.75,-2.09,Long,19,33.16,10.52,-31.4,2.17,-3.2,1.1,Tata Teleservices (Maharashtra) Ltd.
+NSE: Information Technology,TECHM,1750.0,-0.82,10.83,Long,23,1683.86,3.78,-4.42,0.85,-0.5,11.3,Tech Mahindra Ltd.
+NSE: Construction,TECHNOE,937.75,-0.24,-5.78,Long,9,878.09,6.36,-31.21,1.54,-7.2,1.4,Techno Electric & Engineering Company Ltd.
+NSE: Capital Goods,TEGA,1615.7,-13.39,-6.71,Short,20,1863.73,-15.35,-24.11,0.48,-10.9,4.2,Tega Industries Ltd.
+NSE: Telecommunication,TEJASNET,404.6,-10.73,-22.09,Short,44,450.54,-11.35,-36.02,0.68,-3.2,-18.9,Tejas Networks Ltd.
+NSE: Automobile and Auto Components,TENNIND,430.6,-4.3,-21.75,Short,118,471.37,-9.47,-33.89,1.3,-5.5,-16.2,Tenneco Clean Air India Ltd.
+NSE: Consumer Durables,THANGAMAYL,3947.2,-21.33,-27.99,Short,76,4539.24,-15.0,-46.0,0.98,-6.7,-21.3,Thangamayil Jewellery Ltd.
+NSE: Financial Services,NIACL,149.64,-14.0,-18.71,Short,12,169.95,-13.58,-35.28,0.14,-1.9,-16.8,The New India Assurance Company Ltd.
+NSE: Construction Materials,RAMCOCEM,821.1,4.29,-9.75,Long,9,759.09,7.55,-31.67,1.01,-4.8,-5.0,The Ramco Cements Ltd.
+NSE: Capital Goods,THERMAX,2681.7,-17.1,-34.27,Short,88,3038.24,-13.3,-47.81,1.43,-10.9,-23.4,Thermax Ltd.
+NSE: Capital Goods,TIMKEN,3103.6,8.49,-5.94,Long,12,2885.78,7.02,-17.55,0.94,-10.9,5.0,Timken India Ltd.
+NSE: Capital Goods,TITAGARH,734.7,-0.83,-12.58,Long,4,657.23,10.54,-21.13,1.47,-10.9,-1.7,Titagarh Rail Systems Ltd.
+NSE: Consumer Durables,TITAN,4648.1,5.06,-7.93,Long,11,4629.05,0.41,-10.08,1.2,-6.7,-1.2,Titan Company Ltd.
+NSE: Healthcare,TORNTPHARM,4610.7,1.14,-7.25,Short,28,4812.85,-4.38,-10.0,1.02,1.4,-8.6,Torrent Pharmaceuticals Ltd.
+NSE: Power,TORNTPOWER,1211.8,0.15,-4.14,Short,27,1271.71,-4.94,-31.4,0.94,-7.8,3.7,Torrent Power Ltd.
+NSE: Capital Goods,TARIL,303.75,-6.85,2.19,Long,25,297.18,2.16,-15.3,0.4,-10.9,13.1,Transformers And Rectifiers (India) Ltd.
+NSE: Consumer Services,TRENT,3190.0,10.32,8.43,Long,13,2962.53,7.13,-27.47,1.03,-0.7,9.1,Trent Ltd.
+NSE: Textiles,TRIDENT,23.26,6.11,-4.94,Long,11,21.51,7.54,-18.88,2.03,3.1,-8.0,Trident Ltd.
+NSE: Capital Goods,TRITURBINE,470.3,-2.97,-18.9,Long,10,451.27,4.05,-36.35,1.25,-10.9,-8.0,Triveni Turbine Ltd.
+NSE: Automobile and Auto Components,TIINDIA,2207.5,1.73,-25.4,Long,9,2018.03,8.58,-33.23,1.13,-5.5,-19.9,Tube Investments of India Ltd.
+NSE: Financial Services,UCOBANK,24.5,3.77,-5.41,Long,7,23.23,5.18,-21.79,1.1,-1.9,-3.5,UCO Bank
+NSE: Automobile and Auto Components,UNOMINDA,1370.0,25.99,7.62,Long,10,1245.14,9.11,-1.3,1.6,-5.5,13.1,UNO Minda Ltd.
+NSE: Chemicals,UPL,552.0,4.08,-1.44,Long,24,506.33,8.27,-30.79,1.15,-9.4,8.0,UPL Ltd.
+NSE: Financial Services,UTIAMC,846.15,-2.43,-5.42,Short,19,865.42,-2.28,-25.12,1.09,-1.9,-3.5,UTI Asset Management Company Ltd.
+NSE: Construction Materials,ULTRACEMCO,12428.0,16.69,8.08,Long,12,11573.44,6.88,-2.84,0.9,-4.8,12.9,UltraTech Cement Ltd.
+NSE: Financial Services,UNIONBANK,207.88,15.04,12.06,Long,19,193.6,6.87,-0.01,1.21,-1.9,14.0,Union Bank of India
+NSE: Fast Moving Consumer Goods,UBL,1223.0,1.51,-9.77,Short,55,1237.52,-1.19,-31.96,1.45,-1.7,-8.1,United Breweries Ltd.
+NSE: Fast Moving Consumer Goods,UNITDSPR,1441.0,5.65,-5.25,Long,12,1345.69,6.61,-7.39,0.96,-1.7,-3.6,United Spirits Ltd.
+NSE: Consumer Services,URBANCO,172.73,21.23,19.15,Long,11,150.15,13.07,-4.62,1.27,-0.7,19.8,Urban Company Ltd.
+NSE: Capital Goods,USHAMART,462.25,-4.72,-7.33,Short,20,503.83,-8.99,-13.61,0.57,-10.9,3.6,Usha Martin Ltd.
+NSE: Textiles,VTL,527.6,-0.07,-11.16,Short,76,539.13,-2.19,-20.14,1.0,3.1,-14.3,Vardhman Textiles Ltd.
+NSE: Fast Moving Consumer Goods,VBL,424.55,1.07,-3.24,Long,9,399.26,5.96,-21.79,0.98,-1.7,-1.5,Varun Beverages Ltd.
+NSE: Metals & Mining,VEDL,245.4,0.9,-5.2,Long,10,240.22,2.11,-68.22,1.11,-8.9,3.7,Vedanta Ltd.
+NSE: Healthcare,VIJAYA,1533.6,12.09,2.57,Long,1,1326.82,13.48,-2.36,1.14,1.4,1.2,Vijaya Diagnostic Centre Ltd.
+NSE: Consumer Services,VMM,90.23,-4.46,-13.0,Long,6,87.46,3.07,-34.69,0.74,-0.7,-12.3,Vishal Mega Mart Ltd.
+NSE: Telecommunication,IDEA,12.1,-1.47,-14.31,Long,9,11.79,2.55,-22.44,0.89,-3.2,-11.1,Vodafone Idea Ltd.
+NSE: Consumer Durables,VOLTAS,1134.6,11.28,-9.44,Long,14,1040.62,8.28,-27.1,1.43,-6.7,-2.7,Voltas Ltd.
+NSE: Capital Goods,WAAREEENER,2392.0,-4.89,-11.64,Long,6,2320.15,3.0,-31.66,1.16,-10.9,-0.7,Waaree Energies Ltd.
+NSE: Capital Goods,WELCORP,2224.9,-14.19,16.06,Short,17,2595.87,-16.67,-21.71,0.72,-10.9,27.0,Welspun Corp Ltd.
+NSE: Textiles,WELSPUNLIV,255.97,17.78,43.97,Long,12,220.17,13.98,-3.63,1.54,3.1,40.9,Welspun Living Ltd.
+NSE: Consumer Durables,WHIRLPOOL,816.65,-2.63,6.83,Long,38,774.2,5.2,-34.01,0.22,-6.7,13.5,Whirlpool of India Ltd.
+NSE: Information Technology,WIPRO,185.14,1.65,3.98,Long,24,184.22,0.5,-29.55,0.81,-0.5,4.5,Wipro Ltd.
+NSE: Healthcare,WOCKPHARMA,2026.6,6.31,8.96,Long,5,1816.88,10.35,-13.01,0.8,1.4,7.6,Wockhardt Ltd.
+NSE: Financial Services,YESBANK,17.68,4.74,-21.28,Long,8,16.03,9.34,-30.61,1.17,-1.9,-19.4,Yes Bank Ltd.
+NSE: Automobile and Auto Components,ZFCVINDIA,2241.7,4.71,-16.13,Long,9,2133.19,4.84,-16.4,0.78,-5.5,-10.6,ZF Commercial Vehicle Control Systems India Ltd.
+NSE: Media Entertainment & Publication,ZEEL,70.77,-3.23,-31.2,Long,5,61.46,13.16,-37.4,1.3,10.2,-41.4,Zee Entertainment Enterprises Ltd.
+NSE: Capital Goods,ZENTEC,1724.0,5.94,-12.99,Long,23,1567.83,9.06,-13.63,1.37,-10.9,-2.1,Zen Technologies Ltd.
+NSE: Information Technology,ZENSARTECH,527.35,2.77,8.75,Long,25,501.55,4.89,-27.8,0.61,-0.5,9.2,Zensar Technolgies Ltd.
+NSE: Healthcare,ZYDUSLIFE,1202.0,7.91,7.74,Long,13,1141.89,5.0,-3.49,1.07,1.4,6.3,Zydus Lifesciences Ltd.
+NSE: Fast Moving Consumer Goods,ZYDUSWELL,456.6,-11.41,-8.06,Short,34,508.05,-11.27,-24.22,0.78,-1.7,-6.4,Zydus Wellness Ltd.
+NSE: Services,ECLERX,1500.1,-21.87,-16.86,Short,14,1705.13,-13.67,-39.32,1.33,1.6,-18.5,eClerx Services Ltd.
